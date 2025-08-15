@@ -1,0 +1,3002 @@
+[
+  {
+    "problem_id": "fresh_1",
+    "problem": "Among the functions $y= \\frac {1}{x^{2}}$, $y=-x^{2}$, $y=x^{2}+x$, how many are power functions according to the definition that only functions of the form $y=x^{\\alpha}$ are considered power functions? Express your answer as a whole number.",
+    "expected_answer": "1",
+    "solve_rate": 0.203125
+  },
+  {
+    "problem_id": "fresh_2",
+    "problem": "Given the function $f(x)$ defined on $\\mathbb{R}$ as $f(x) = \\begin{cases} \\log_{2}(1-x), & x \\leqslant 0 \\\\ f(x-1) - f(x-2), & x > 0 \\end{cases}$, find the value of $f(2017)$. Express your answer as a single integer.",
+    "expected_answer": "-1",
+    "solve_rate": 0.203125
+  },
+  {
+    "problem_id": "fresh_3",
+    "problem": "Given the complex number z = (2+ai)/(1+2i), where a is an integer, and the point corresponding to z in the complex plane is in the fourth quadrant, find the maximum value of a.",
+    "expected_answer": "3",
+    "solve_rate": 0.390625
+  },
+  {
+    "problem_id": "fresh_4",
+    "problem": "Find the solution set of the inequality $(x-50)(60-x) > 0$. Express your answer as an interval in standard notation.",
+    "expected_answer": "(50, 60)",
+    "solve_rate": 0.609375
+  },
+  {
+    "problem_id": "fresh_5",
+    "problem": "Given the sequence $\\frac{3}{5},\\frac{4}{7},\\frac{5}{9},\\frac{6}{11},\\ldots$, derive a formula for the $n$th term based on the pattern observed in the sequence. Express your answer as a fraction in terms of $n$.",
+    "expected_answer": "\\frac{n + 2}{2n + 3}",
+    "solve_rate": 0.3125
+  },
+  {
+    "problem_id": "fresh_6",
+    "problem": "A new sequence is formed by removing all perfect squares (numbers obtained by multiplying an integer by itself, such as 1<sup>2</sup>, 2<sup>2</sup>, 3<sup>2</sup>) from the positive integer sequence 1, 2, 3,... What is the 2019th term of this new sequence? Express your answer as a single integer.",
+    "expected_answer": "2063",
+    "solve_rate": 0.3125
+  },
+  {
+    "problem_id": "fresh_7",
+    "problem": "Given vectors $\\overrightarrow{a}=({0,5})$ and $\\overrightarrow{b}=({2,-1})$, calculate the coordinates of the projection vector of $\\overrightarrow{b}$ onto $\\overrightarrow{a}$. Express your answer as a coordinate pair (x, y).",
+    "expected_answer": "(0,-1)",
+    "solve_rate": 0.359375
+  },
+  {
+    "problem_id": "fresh_8",
+    "problem": "A rectangular solid has three edges meeting at one vertex with lengths 3, 4, and 5 respectively, and all its 8 vertices lie on the same spherical surface. Calculate the surface area of this sphere. Express your answer in terms of pi (π).",
+    "expected_answer": "50\\pi",
+    "solve_rate": 0.234375
+  },
+  {
+    "problem_id": "fresh_9",
+    "problem": "An investment of $a$ billion yuan is made in infrastructure construction, generating social and economic benefits after $t$ years according to the function $f(t) = ae^{\\lambda t}$. If the benefits after 4 years are twice the investment amount, and after another $t_1$ years, the benefits are sixteen times the investment amount, calculate the value of $t_1$. Express your answer as a single integer (years).",
+    "expected_answer": "12",
+    "solve_rate": 0.671875
+  },
+  {
+    "problem_id": "fresh_10",
+    "problem": "The function $f(x)$ is an odd function defined on $\\mathbb{R}$. When $x > 0$, $f(x)=-x+1$. Determine the expression of $f(x)$ when $x < 0$. Express your answer as a function of $x$, including all necessary mathematical operations and constants.",
+    "expected_answer": "-x-1",
+    "solve_rate": 0.21875
+  },
+  {
+    "problem_id": "fresh_11",
+    "problem": "Given that the ratio of the radii of three spheres is 1:2:3, find the multiple of the sum of the surface areas of the two smaller spheres that equals the surface area of the largest sphere. Express your answer as a numerical value.",
+    "expected_answer": "9/5",
+    "solve_rate": 0.390625
+  },
+  {
+    "problem_id": "fresh_12",
+    "problem": "Given that the angle between vectors $\\overrightarrow{a}$ and $\\overrightarrow{b}$ is $θ$, the \"cross product\" of $\\overrightarrow{a}$ and $\\overrightarrow{b}$, denoted as $\\overrightarrow{a} × \\overrightarrow{b}$, is defined as a vector with magnitude $|\\overrightarrow{a} × \\overrightarrow{b}| = |\\overrightarrow{a}| \\cdot |\\overrightarrow{b}| \\cdot \\sin θ$. If $\\overrightarrow{a} = (- \\sqrt {3},-1)$ and $\\overrightarrow{b} = (1, \\sqrt {3})$, find the magnitude $|\\overrightarrow{a} × \\overrightarrow{b}|$. Express your answer as a single number.",
+    "expected_answer": "2",
+    "solve_rate": 0.671875
+  },
+  {
+    "problem_id": "fresh_13",
+    "problem": "Given the following information: 3 pencils, 7 exercise books, and 1 ballpoint pen cost 6.3 yuan; 4 pencils, 10 exercise books, and 1 ballpoint pen cost 8.4 yuan. Calculate the total cost in yuan of buying 1 pencil, 1 exercise book, and 1 ballpoint pen. Express your answer as a single number in yuan, rounded to one decimal place if necessary.",
+    "expected_answer": "2.1",
+    "solve_rate": 0.5625
+  },
+  {
+    "problem_id": "fresh_14",
+    "problem": "Adriano, Bruno, César, and Daniel are four good friends. Daniel had no money, but the others had. Adriano gave Daniel one-fifth of his money, Bruno gave Daniel one-fourth of his money, and César gave Daniel one-third of his money. Each gave Daniel the same amount. Express the amount Daniel now has as a fraction of the total initial money that his three friends had together. Provide your answer as a simplified fraction in the form \\boxed{\\frac{numerator}{denominator}}.",
+    "expected_answer": "\\frac{1}{4}",
+    "solve_rate": 0.40625
+  },
+  {
+    "problem_id": "fresh_15",
+    "problem": "The radius of the base of a cone is 1 cm, and the slant height is 3 cm. Calculate the central angle of the unfolded side surface of the cone. Express your answer in degrees, including the degree symbol.",
+    "expected_answer": "120^{\\circ}",
+    "solve_rate": 0.21875
+  },
+  {
+    "problem_id": "fresh_16",
+    "problem": "Given an isosceles triangle with two sides of lengths 2 and 5 units, determine its perimeter if it exists. Apply the triangle inequality theorem to validate the triangle's existence and calculate the perimeter by summing the lengths of all sides. Express your answer in units as a whole number.",
+    "expected_answer": "12",
+    "solve_rate": 0.390625
+  },
+  {
+    "problem_id": "fresh_17",
+    "problem": "Given vectors \\\\( \\\\overrightarrow{a}, \\\\overrightarrow{b} \\\\) with an angle of \\\\( \\\\frac{\\\\pi}{3} \\\\) between them, and \\\\( | \\\\overrightarrow{a} | = 2, | \\\\overrightarrow{b} | = 1 \\\\), calculate the value of \\\\( | \\\\overrightarrow{a} + \\\\overrightarrow{b} | \\\\cdot | \\\\overrightarrow{a} - \\\\overrightarrow{b} | \\\\). Express your answer as a single numerical value.",
+    "expected_answer": "\\sqrt{21}",
+    "solve_rate": 0.484375
+  },
+  {
+    "problem_id": "fresh_18",
+    "problem": "Given a sequence {a_n} where a_1 = 2, and for all positive integers n, it always holds that a_n + a_{n+1} = 2n. Calculate the value of a_{10}. Provide your answer as a single integer.",
+    "expected_answer": "8",
+    "solve_rate": 0.640625
+  },
+  {
+    "problem_id": "fresh_19",
+    "problem": "From a group of 4 boys and 3 girls, choose 4 students to participate in a city-wide knowledge competition. The chosen group must include both boys and girls. Calculate the total number of different selections possible.",
+    "expected_answer": "34",
+    "solve_rate": 0.5
+  },
+  {
+    "problem_id": "fresh_20",
+    "problem": "Let vectors $\\vec{a}$ and $\\vec{b}$ have magnitudes of $6$ and $5$ respectively, and the angle between them is $120^{\\circ}$. Calculate the magnitude of $\\vec{a} + \\vec{b}$. Express your answer as a numerical value.",
+    "expected_answer": "\\sqrt{31}",
+    "solve_rate": 0.59375
+  },
+  {
+    "problem_id": "fresh_21",
+    "problem": "Given the parabola $y^2 = 2px$ has its focus on the line $2x + 3y - 8 = 0$, find the equation of the directrix of this parabola. Express your answer as an equation of a line (e.g., $x = a$).",
+    "expected_answer": "x = -4",
+    "solve_rate": 0.296875
+  },
+  {
+    "problem_id": "fresh_22",
+    "problem": "If the complex number $z$ satisfies the equation $z = (z + 1)i$ (where $i$ is the imaginary unit), then in which quadrant does the point corresponding to the conjugate of the complex number $\\overline{z}$ lie? Express your answer as the name of the quadrant (e.g. first, second, third, fourth).",
+    "expected_answer": "third",
+    "solve_rate": 0.28125
+  },
+  {
+    "problem_id": "fresh_23",
+    "problem": "Given that the planar vector $\\overrightarrow {b}$ makes an angle of 180° with the vector $\\overrightarrow {a} = (1, -2)$, and $|\\overrightarrow {b}|=3\\sqrt{5}$, find the vector $\\overrightarrow {b}$. Express your answer as an ordered pair (x, y).",
+    "expected_answer": "(-3, 6)",
+    "solve_rate": 0.3125
+  },
+  {
+    "problem_id": "fresh_24",
+    "problem": "Given that plane vectors $\\overrightarrow{a}$ and $\\overrightarrow{b}$ satisfy $({3\\overrightarrow{a}-2\\overrightarrow{b}})⊥({5\\overrightarrow{a}+\\overrightarrow{b}})$, and $\\overrightarrow{a}•\\overrightarrow{b}=\\frac{1}{7}$, if $|{\\overrightarrow{a}}|=1$, calculate the magnitude of vector $\\overrightarrow{b}$, $|{\\overrightarrow{b}}|$. Express your answer as a numerical value, including the square root symbol if necessary.",
+    "expected_answer": "\\sqrt{7}",
+    "solve_rate": 0.375
+  },
+  {
+    "problem_id": "fresh_25",
+    "problem": "Express $214.7$ billion in scientific notation. Provide your answer in the form $\\boxed{a \\times 10^b}$, where $a$ is a number between $1$ and $10$, and $b$ is an integer.",
+    "expected_answer": "2.147 \\times 10^{11}",
+    "solve_rate": 0.5625
+  },
+  {
+    "problem_id": "fresh_26",
+    "problem": "There are $3$ activity groups, and students A and B each participate in one of them. The probability of each student participating in any group is the same. What is the probability that these two students are not in the same interest group? Express your answer as a simplified fraction.",
+    "expected_answer": "\\dfrac{2}{3}",
+    "solve_rate": 0.515625
+  },
+  {
+    "problem_id": "fresh_27",
+    "problem": "Given that the line $l$: $mx + ny = 4$ and the circle $O$: $x^2 + y^2 = 4$ have no intersection points, determine the number of intersection points between the line passing through the point $(m, n)$ and the ellipse $\\frac{x^2}{9} + \\frac{y^2}{4} = 1$. Express your answer as a single numerical value.",
+    "expected_answer": "2",
+    "solve_rate": 0.234375
+  },
+  {
+    "problem_id": "fresh_28",
+    "problem": "Given the sets \\( E = \\left\\{ x \\mid x = \\cos \\frac{n \\pi}{3}, n \\in \\mathbf{Z} \\right\\} \\) and \\( F = \\left\\{ x \\mid x = \\sin \\frac{(2m-3) \\pi}{6}, m \\in \\mathbf{Z} \\right\\} \\), determine the exact relationship between sets E and F. Express your answer as a set relationship (e.g. E = F, E ⊂ F, etc.).",
+    "expected_answer": "E = F",
+    "solve_rate": 0.4375
+  },
+  {
+    "problem_id": "fresh_29",
+    "problem": "Let the function $f(x)=2\\sqrt{3}\\sin x\\cos x-2\\sin^{2}x+1$ $(x\\in\\mathbb{R})$. Calculate the smallest positive period of $f(x)$ in radians. Express your answer in the form $\\boxed{[answer]}$.",
+    "expected_answer": "\\pi",
+    "solve_rate": 0.5625
+  },
+  {
+    "problem_id": "fresh_30",
+    "problem": "Determine the number of unique functions f(x) that are defined on the set of real numbers, are odd functions, and satisfy the condition f(x) = x for x in [0, 2], given that g(x) = f(x+2) is an even function.",
+    "expected_answer": "1",
+    "solve_rate": 0.640625
+  },
+  {
+    "problem_id": "fresh_31",
+    "problem": "Given a triangle with sides of lengths \\(a, b, c\\) and the equation \\((a+b+c)(a+b-c) = 3ab\\), find the measure of the angle opposite the side of length \\(c\\). Express your answer in degrees as a whole number.",
+    "expected_answer": "60",
+    "solve_rate": 0.484375
+  },
+  {
+    "problem_id": "fresh_32",
+    "problem": "Given x > 1 and y > 1, and lg x, 2, lg y form an arithmetic sequence, calculate the minimum value of x + y.",
+    "expected_answer": "200",
+    "solve_rate": 0.265625
+  },
+  {
+    "problem_id": "fresh_33",
+    "problem": "In the diagram, point \\( P \\) is on the number line at 3 and \\( V \\) is at 33. The number line between 3 and 33 is divided into six equal parts by the points \\( Q, R, S, T, U \\). Find the sum of the lengths of \\( P S \\) and \\( T V \\). Express your answer as a whole number.",
+    "expected_answer": "25",
+    "solve_rate": 0.203125
+  },
+  {
+    "problem_id": "fresh_34",
+    "problem": "Given the lines $l: 4ax + y - 1 = 0$ and $l_{2}: (a-1)x + y + 1 = 0$, if $l_{1} \\perp l_{2}$, find the value of $a$. Express your answer as a single value.",
+    "expected_answer": "\\frac{1}{2}",
+    "solve_rate": 0.421875
+  },
+  {
+    "problem_id": "fresh_35",
+    "problem": "Among the four-digit numbers without repeated digits composed of the numbers 0, 1, 2, 3, 4, 5, how many are divisible by 5? Express your answer as a single integer.",
+    "expected_answer": "108",
+    "solve_rate": 0.328125
+  },
+  {
+    "problem_id": "fresh_36",
+    "problem": "In the context of financial transactions, receiving money is represented by a positive number. For example, receiving $500$ yuan is denoted as $+500$ yuan. How would you represent spending $300$ yuan using positive and negative numbers? Express your answer in yuan.",
+    "expected_answer": "-300 \\text{ yuan}",
+    "solve_rate": 0.6875
+  },
+  {
+    "problem_id": "fresh_37",
+    "problem": "Find the equation of the tangent line to the function f(x) = xe^x - 2e^x + x + e at the point (1, f(1)). Express your answer in the form y = mx + b, where m and b are constants.",
+    "expected_answer": "y = x",
+    "solve_rate": 0.546875
+  },
+  {
+    "problem_id": "fresh_38",
+    "problem": "Given the piecewise function $f(x) = \\\\begin{cases} x-5 & (x\\\\geq7) \\\\\\\\ f(x+3) & (x<7)\\\\end{cases}$ (where $x\\\\in\\\\mathbb{N}$), calculate the value of $f(3)$. Express your answer as a single integer.",
+    "expected_answer": "4",
+    "solve_rate": 0.421875
+  },
+  {
+    "problem_id": "fresh_39",
+    "problem": "A certain number added to $20, 50, 100$ forms a geometric sequence. Find the common ratio of the geometric sequence. Express your answer as a fraction.",
+    "expected_answer": "\\frac{5}{3}",
+    "solve_rate": 0.390625
+  },
+  {
+    "problem_id": "fresh_40",
+    "problem": "Simplify the expression: $\\frac{10^7}{5\\times 10^4}$. Provide your answer as a numerical value.",
+    "expected_answer": "200",
+    "solve_rate": 0.5
+  },
+  {
+    "problem_id": "fresh_41",
+    "problem": "What is the remainder when $29 \\cdot 169^{1990}$ is divided by 11? Express your answer as a single integer.",
+    "expected_answer": "7",
+    "solve_rate": 0.203125
+  },
+  {
+    "problem_id": "fresh_42",
+    "problem": "Find the coordinates of the focus of the parabola $y = -\\frac{1}{2}x^{2}$. Express your answer as an ordered pair (x, y).",
+    "expected_answer": "(0,-\\frac{1}{2})",
+    "solve_rate": 0.390625
+  },
+  {
+    "problem_id": "fresh_43",
+    "problem": "Given that U, V, W, X, Y, and Z are different digits chosen from the integers 1 to 9, and UVW and XYZ are each 3-digit integers, calculate the largest possible value for UVW - XYZ. Express your answer as a numerical value.",
+    "expected_answer": "864",
+    "solve_rate": 0.6875
+  },
+  {
+    "problem_id": "fresh_44",
+    "problem": "Find the derivative of the function f(x) = e^(-x). Express your answer as a function of x.",
+    "expected_answer": "-e^{-x}",
+    "solve_rate": 0.640625
+  },
+  {
+    "problem_id": "fresh_45",
+    "problem": "Given a circle $C: x^{2}+y^{2}-6x+8=0$, if one of the asymptotes of the hyperbola ${y^2}-\\frac{{{x^2}}}{{{m^2}}}=1(m＞0)$ is tangent to the circle $C$, calculate the value of $m$.",
+    "expected_answer": "2\\sqrt{2}",
+    "solve_rate": 0.203125
+  },
+  {
+    "problem_id": "fresh_46",
+    "problem": "Given the parabola y^2 = 2px (p > 0) passes through the point A(2, 2), find its directrix equation. Express your answer in the form x =....",
+    "expected_answer": "x = -\\frac{1}{2}",
+    "solve_rate": 0.546875
+  },
+  {
+    "problem_id": "fresh_47",
+    "problem": "Given the function f(x) = x + p/(x-1), where p is a constant and p > 0, find the value of p such that the minimum value of f(x) on the interval (1, +∞) is 4. Express your answer as a single number.",
+    "expected_answer": "\\frac{9}{4}",
+    "solve_rate": 0.578125
+  },
+  {
+    "problem_id": "fresh_48",
+    "problem": "Given the equation of the hyperbola $\\dfrac{x^2}{9} - y^2 = 1$ and the equation of the line $y = \\dfrac{1}{3}(x+1)$, calculate the number of intersection points between the line and the hyperbola. Express your answer as a whole number.",
+    "expected_answer": "1",
+    "solve_rate": 0.671875
+  },
+  {
+    "problem_id": "fresh_49",
+    "problem": "Elisa swims laps in the pool. When she first started, she completed 10 laps in 25 minutes. Now, she can finish 12 laps in 24 minutes. Calculate the improvement in her lap time. Express your answer in minutes.",
+    "expected_answer": "0.5",
+    "solve_rate": 0.671875
+  },
+  {
+    "problem_id": "fresh_50",
+    "problem": "Mr. Lin ordered 4 pairs of black socks and some blue socks from a store. The price per pair of black socks is twice that of blue socks. After filling out the order form, it was discovered that the number of pairs of the two colors of socks had been swapped, resulting in a 50% increase in expenditure. Find the ratio of the number of pairs of black socks to blue socks originally intended to order by Mr. Lin. Express your answer as a simplified ratio (e.g., x:y).",
+    "expected_answer": "1:4",
+    "solve_rate": 0.421875
+  },
+  {
+    "problem_id": "fresh_51",
+    "problem": "Given that the domain of the function $f(x)$ and its derivative $f'(x)$ is $R$, and $f(x-1)$ is an odd function, ${f'}(2-x) + {f'}(x) = 2$, and ${f'}(-1) = 2$, calculate the value of $\\sum_{i=1}^{2024}{f'(2i-1)}$. Express your answer as a single integer.",
+    "expected_answer": "2024",
+    "solve_rate": 0.34375
+  },
+  {
+    "problem_id": "fresh_52",
+    "problem": "Determine the number of positive integer triplets (a, b, c) that satisfy the system of equations:\n\\[\n\\begin{cases}\nab + bc = 44 \\\\\nac + bc = 23\n\\end{cases}\n\\]\nExpress your answer as a single integer representing the count of solutions.",
+    "expected_answer": "2",
+    "solve_rate": 0.25
+  },
+  {
+    "problem_id": "fresh_53",
+    "problem": "Given the sets $A=\\{x|x\\geq3 \\text{ or } x\\leq1\\}$, $B=\\{x|x^2-6x+8<0\\}$, calculate the intersection $(\\complement_R A) \\cap B$ and express your answer as an interval in the form $(a, b)$.",
+    "expected_answer": "(2,3)",
+    "solve_rate": 0.390625
+  },
+  {
+    "problem_id": "fresh_54",
+    "problem": "Given the system of equations:\n\n\\[\n\\begin{cases}\n2x - y + 3z = 9 \\\\\nx + 2y - z = k \\\\\n-x + y + 4z = 6\n\\end{cases}\n\\]\n\nIf $y = -1$, find the value of $k$. Express your answer as a single integer.",
+    "expected_answer": "-3",
+    "solve_rate": 0.640625
+  },
+  {
+    "problem_id": "fresh_55",
+    "problem": "Ahn chooses a two-digit integer, subtracts it from 200, and doubles the result. What is the largest number Ahn can get? Express your answer as a single integer.",
+    "expected_answer": "380",
+    "solve_rate": 0.359375
+  },
+  {
+    "problem_id": "fresh_56",
+    "problem": "Given a rope of length 3 meters, if it is cut at a random position, what is the probability that both resulting pieces will be no less than 1 meter in length? Express your answer as a simplified fraction.",
+    "expected_answer": "\\frac{1}{3}",
+    "solve_rate": 0.546875
+  },
+  {
+    "problem_id": "fresh_57",
+    "problem": "Given positive numbers a and b such that a^b = b^a and b = 9a, find the exact value of a. Express your answer as a mathematical expression, including any necessary radicals or exponents.",
+    "expected_answer": "\\sqrt[4]{3}",
+    "solve_rate": 0.28125
+  },
+  {
+    "problem_id": "fresh_58",
+    "problem": "Given the parabola y = x^2 - 4x + 2, translate it 3 units to the left and 2 units down. Find the coordinates of the vertex of the resulting parabola. Express your answer as an ordered pair (x, y).",
+    "expected_answer": "(-1, -4)",
+    "solve_rate": 0.4375
+  },
+  {
+    "problem_id": "fresh_59",
+    "problem": "Simplify the expression: $\\left(a-b\\right)\\left(a+b\\right)(a^{2}-b^{2})$. Provide your answer as a simplified algebraic expression.",
+    "expected_answer": "a^{4}-2a^{2}b^{2}+b^{4}",
+    "solve_rate": 0.4375
+  },
+  {
+    "problem_id": "fresh_60",
+    "problem": "In a class of 80 students, systematic sampling is used to select a number of students for a survey. Each student is randomly assigned a number from 1 to 80. Given that the two smallest numbers among the selected students are 6 and 14, calculate the largest number among the selected students. Express your answer as a whole number.",
+    "expected_answer": "78",
+    "solve_rate": 0.28125
+  },
+  {
+    "problem_id": "fresh_61",
+    "problem": "Given the constraints:\n\\[\n\\begin{cases}\nx - 4y + 3 \\leqslant 0, \\\\\n3x + 5y - 25 \\leqslant 0, \\\\\nx \\geqslant 1,\n\\end{cases}\n\\]\nand the objective function \\( z = kx + y \\) with a maximum value of 12 and a minimum value of 3, calculate the value of the real number \\( k \\). Express your answer as a single number.",
+    "expected_answer": "2",
+    "solve_rate": 0.359375
+  },
+  {
+    "problem_id": "fresh_62",
+    "problem": "Given the ratios m/n = 4/3 and r/t = 9/14, calculate the value of the expression (3mr - nt) / (4nt - 7mr). Express your answer as a simplified fraction.",
+    "expected_answer": "-\\frac{11}{14}",
+    "solve_rate": 0.265625
+  },
+  {
+    "problem_id": "fresh_63",
+    "problem": "Given the parabola equation y = 2x^2 + ax - 5 and the condition a < 0, determine the quadrant in which the vertex of the parabola lies. Express your answer as the quadrant number (I, II, III, or IV).",
+    "expected_answer": "IV",
+    "solve_rate": 0.359375
+  },
+  {
+    "problem_id": "fresh_64",
+    "problem": "Given the equations $y = x^2 - 6$ and $y = m$ where $-6 < m < 6$, define $r = \\frac{L(-m) - L(m)}{m}$, where $L(m)$ denotes the x-coordinate of the left intersection point of the curves. Calculate the value of $r$ as $m$ approaches 0. Express your answer as a single value.",
+    "expected_answer": "\\frac{1}{\\sqrt{6}}",
+    "solve_rate": 0.234375
+  },
+  {
+    "problem_id": "fresh_65",
+    "problem": "Given sets $A = \\\\{x | x^2 - 3x - 4 < 0\\\\}$ and $B = \\\\{-4, 1, 3, 5\\\\}$, calculate the intersection $A \\\\cap B$. Express your answer as a set of integers.",
+    "expected_answer": "\\\\{1, 3\\\\}",
+    "solve_rate": 0.53125
+  },
+  {
+    "problem_id": "fresh_66",
+    "problem": "Given that α is an angle in the third quadrant, and $\\tan\\alpha = 2$, calculate the value of \n$$\n\\frac{\\sin\\left(\\frac{\\pi}{2} - \\alpha\\right)\\cos\\left(\\pi + \\alpha\\right)}{\\sin\\left(\\frac{3\\pi}{2} + \\alpha\\right)}.\n$$\nExpress your answer as a fraction with a square root if necessary, and enclose it in a box.",
+    "expected_answer": "-\\frac{\\sqrt{5}}{5}",
+    "solve_rate": 0.203125
+  },
+  {
+    "problem_id": "fresh_67",
+    "problem": "Given the polar equation of a line $\\rho \\sin (\\theta +\\frac{\\pi }{4})=1$, calculate the distance from the pole to this line. Express your answer as a single number.",
+    "expected_answer": "1",
+    "solve_rate": 0.5
+  },
+  {
+    "problem_id": "fresh_68",
+    "problem": "At the Gaussland Olympics, there are 480 student participants, with each student participating in 4 different events. Each event has 20 students participating and is supervised by 1 adult coach. Given that there are 16 adult coaches and each coach supervises the same number of events, calculate the number of events each coach supervises. Provide your answer as a whole number.",
+    "expected_answer": "6",
+    "solve_rate": 0.265625
+  },
+  {
+    "problem_id": "fresh_69",
+    "problem": "Given the equation $(2-x)^5 = a_0 + a_1x + a_2x^2 + \\ldots + a_5x^5$, find the value of $a_1 + a_2 + a_3 + a_4 + a_5$. Express your answer as a single integer.",
+    "expected_answer": "-31",
+    "solve_rate": 0.53125
+  },
+  {
+    "problem_id": "fresh_70",
+    "problem": "What is the maximum number of intersection points between the graph of the function y=f(x) and the y-axis? Express your answer as a whole number.",
+    "expected_answer": "1",
+    "solve_rate": 0.421875
+  },
+  {
+    "problem_id": "fresh_71",
+    "problem": "Given the equation $\\frac{2}{x}+\\frac{8}{y}=1$ and the constraints $x > 0$, $y > 0$, find the minimum value of $xy$. Express your answer as a single number.",
+    "expected_answer": "64",
+    "solve_rate": 0.265625
+  },
+  {
+    "problem_id": "fresh_72",
+    "problem": "Given vectors $\\overrightarrow{a} = (1, 1, 0)$ and $\\overrightarrow{b} = (-1, 0, 2)$, and $k \\overrightarrow{a} + \\overrightarrow{b}$ is perpendicular to $2 \\overrightarrow{a} - \\overrightarrow{b}$, calculate the value of $k$. Express your answer as a single number.",
+    "expected_answer": "\\frac{7}{5}",
+    "solve_rate": 0.515625
+  },
+  {
+    "problem_id": "fresh_73",
+    "problem": "Given non-zero vectors $\\overrightarrow {a}$ and $\\overrightarrow {b}$ that satisfy $|\\overrightarrow {a}| = 2|\\overrightarrow {b}| = 4$ and $(\\overrightarrow {a} - 2\\overrightarrow {b}) \\cdot \\overrightarrow {a} = 0$, determine the projection of $\\overrightarrow {a}$ onto $\\overrightarrow {b}$. Express your answer as a single number.",
+    "expected_answer": "4",
+    "solve_rate": 0.203125
+  },
+  {
+    "problem_id": "fresh_74",
+    "problem": "Find the solution set of the inequality $x^2 - 5|x| + 6 < 0$. Express your answer in interval notation, including all intervals that satisfy the inequality.",
+    "expected_answer": "(-3, -2) \\cup (2, 3)",
+    "solve_rate": 0.515625
+  },
+  {
+    "problem_id": "fresh_75",
+    "problem": "Given that the sequence $\\{a_n\\}$ is an arithmetic sequence and $a_1 - a_9 + a_{17} = 7$, find the value of $a_3 + a_{15}$. Express your answer as a single number.",
+    "expected_answer": "14",
+    "solve_rate": 0.40625
+  },
+  {
+    "problem_id": "fresh_76",
+    "problem": "Given the set $A=\\{1,2\\}$, how many sets $B$ satisfy $A \\cup B = \\{1,2\\}$? Express your answer as a whole number.",
+    "expected_answer": "4",
+    "solve_rate": 0.34375
+  },
+  {
+    "problem_id": "fresh_77",
+    "problem": "Given four line segments with lengths of 13cm, 10cm, 5cm, and 7cm, how many triangles can be formed using three out of four line segments as sides? Express your answer as a whole number.",
+    "expected_answer": "3",
+    "solve_rate": 0.28125
+  },
+  {
+    "problem_id": "fresh_78",
+    "problem": "John was born on a Wednesday. Alison was born 72 days later. On what day of the week was Alison born? Express your answer as the full day of the week.",
+    "expected_answer": "Friday",
+    "solve_rate": 0.484375
+  },
+  {
+    "problem_id": "fresh_79",
+    "problem": "Given a > 0, b > 0, and a + 2b = 8, find the maximum value of ab. Express your answer as a single numerical value.",
+    "expected_answer": "8",
+    "solve_rate": 0.375
+  },
+  {
+    "problem_id": "fresh_80",
+    "problem": "The line $y+2=k(x+1)$ always passes through a fixed point. Find the coordinates of this fixed point. Express your answer as an ordered pair (x, y).",
+    "expected_answer": "(-1, -2)",
+    "solve_rate": 0.453125
+  },
+  {
+    "problem_id": "fresh_81",
+    "problem": "Find the smallest positive period of the function $f(x) = \\sqrt{3}\\sin(\\frac{x}{2} - \\frac{\\pi}{4})$. Express your answer in terms of $\\pi$.",
+    "expected_answer": "4\\pi",
+    "solve_rate": 0.671875
+  },
+  {
+    "problem_id": "fresh_82",
+    "problem": "How many solutions does the equation $\\sin \\left( \\frac{\\pi}2 \\cos x\\right)=\\cos \\left( \\frac{\\pi}2 \\sin x\\right)$ have in the closed interval $[0,\\pi]$? Express your answer as a whole number.",
+    "expected_answer": "2",
+    "solve_rate": 0.5
+  },
+  {
+    "problem_id": "fresh_83",
+    "problem": "Given the inequality $x^2 + |2x - 6| \\geq a$, which holds true for all real numbers $x$, calculate the maximum value of the real number $a$.",
+    "expected_answer": "5",
+    "solve_rate": 0.453125
+  },
+  {
+    "problem_id": "fresh_84",
+    "problem": "Find the value of the expression $\\cos 13^\\circ \\sin 58^\\circ - \\sin 13^\\circ \\sin 32^\\circ$. Express your answer as a boxed value.",
+    "expected_answer": "\\frac{\\sqrt{2}}{2}",
+    "solve_rate": 0.203125
+  },
+  {
+    "problem_id": "fresh_85",
+    "problem": "What is the smallest positive period of the function $f(x) = \\sin\\left(x+ \\frac{\\pi}{2}\\right)\\cdot\\cos x$? Express your answer in terms of π (if necessary) as a single value.",
+    "expected_answer": "\\pi",
+    "solve_rate": 0.59375
+  },
+  {
+    "problem_id": "fresh_86",
+    "problem": "If \\( b \\) people take \\( c \\) days to lay \\( f \\) bricks, then how many days will it take \\( c \\) people to lay \\( b \\) bricks, working at the same rate? Express your answer as a fraction or whole number of days.",
+    "expected_answer": "\\frac{b^2}{f}",
+    "solve_rate": 0.265625
+  },
+  {
+    "problem_id": "fresh_87",
+    "problem": "Let $f(x)=\\left\\{\\begin{array}{}|x-1|-2   & |x|\\leqslant 1 \\\\ \\dfrac{1}{1+x^{2}}    & |x| \\gt 1\\end{array}\\right.$. Calculate f(f(3)). Express your answer as a single number.",
+    "expected_answer": "-\\dfrac{11}{10}",
+    "solve_rate": 0.53125
+  },
+  {
+    "problem_id": "fresh_88",
+    "problem": "Calculate the number of terms in the simplified expansion of the expression $[(a+3b)^2(a-3b)^2]^2$. Express your answer as a single integer.",
+    "expected_answer": "5",
+    "solve_rate": 0.375
+  },
+  {
+    "problem_id": "fresh_89",
+    "problem": "Among the numbers $\\frac{3}{7}$, $3.1415$, $\\sqrt[3]{8}$, $0.121221222\\ldots$, $\\sqrt{16}$, $\\sqrt[3]{9}$, $0.2$, $-\\frac{22}{7}\\pi$, $\\sqrt[3]{5}$, $\\sqrt{27}$, how many are irrational? Express your answer as a whole number.",
+    "expected_answer": "5",
+    "solve_rate": 0.40625
+  },
+  {
+    "problem_id": "fresh_90",
+    "problem": "A charity fundraiser had 8 volunteers last week, each working 40 hours and raising $18 per hour. This week, 12 volunteers each worked 32 hours and raised the same total amount of money as last week. Calculate the amount each volunteer raised per hour this week. Express your answer as a dollar amount per hour.",
+    "expected_answer": "15",
+    "solve_rate": 0.578125
+  },
+  {
+    "problem_id": "fresh_91",
+    "problem": "Given the parabola equation y^2 = 2px and the point coordinates (-2, 3), find the value of p such that the distance between the point and the focus (p, 0) is 5. Express your answer as a single number.",
+    "expected_answer": "2",
+    "solve_rate": 0.6875
+  },
+  {
+    "problem_id": "fresh_92",
+    "problem": "In triangle $\\triangle ABC$, the lengths of the sides opposite to angles $A$, $B$, and $C$ are $a$, $b$, and $c$ respectively. Given $a=1$, $b=\\sqrt{3}$, and $\\sin B = \\sin 2A$, calculate the value of $c$. Express your answer as a numerical value.",
+    "expected_answer": "2",
+    "solve_rate": 0.25
+  },
+  {
+    "problem_id": "fresh_93",
+    "problem": "Let the random variable X follow the normal distribution N(3, 4). If P(X < 2a+3) = P(X > a-2), then find the value of a. Express your answer as a numerical value.",
+    "expected_answer": "\\frac {5}{3}",
+    "solve_rate": 0.265625
+  },
+  {
+    "problem_id": "fresh_94",
+    "problem": "Find the number of positive integer solutions for the equation \\( 4x + 5y = 98 \\). Express your answer as a single integer.",
+    "expected_answer": "5",
+    "solve_rate": 0.328125
+  },
+  {
+    "problem_id": "fresh_95",
+    "problem": "The table below shows the distance s in feet a ball rolls down an inclined plane in t seconds.\n\\[\n\\begin{array}{|c|c|c|c|c|c|c|}\n\\hline\nt & 0 & 1 & 2 & 3 & 4 & 5 \\\\\n\\hline\ns & 0 & 10 & 40 & 90 & 160 & 250 \\\\\n\\hline\n\\end{array}\n\\]\nFind the distance s for t = 2.5. Express your answer as a single number, rounded to one decimal place if necessary.",
+    "expected_answer": "62.5",
+    "solve_rate": 0.46875
+  },
+  {
+    "problem_id": "fresh_96",
+    "problem": "Given that the angle between vectors $\\overrightarrow{a}$ and $\\overrightarrow{b}$ is $60^{\\circ}$, and $|\\overrightarrow{a}|=2 \\sqrt {2},|\\overrightarrow{b}|= \\sqrt {3}$, calculate the value of $\\overrightarrow{a}\\cdot \\overrightarrow{b}$. Express your answer as a single value, including the square root symbol if necessary.",
+    "expected_answer": "\\sqrt {6}",
+    "solve_rate": 0.4375
+  },
+  {
+    "problem_id": "fresh_97",
+    "problem": "4 students and 1 teacher stand in a row for a photo. The students ask the teacher to stand in the middle. How many different ways can they stand? Express your answer as a whole number.",
+    "expected_answer": "24",
+    "solve_rate": 0.328125
+  },
+  {
+    "problem_id": "fresh_98",
+    "problem": "From the 5 numbers 1, 2, 3, 4, 5, choose any 2 numbers without repetition. What is the probability that the product of these 2 numbers is greater than 5? Express your answer as a simplified fraction.",
+    "expected_answer": "\\frac{3}{5}",
+    "solve_rate": 0.46875
+  },
+  {
+    "problem_id": "fresh_99",
+    "problem": "Given the hyperbola equation $\\frac{{x}^{2}}{7}-\\frac{{y}^{2}}{3}=1$, find the coordinates of the foci. Express your answer as coordinates (x, y).",
+    "expected_answer": "(\\sqrt{10}, 0), (-\\sqrt{10}, 0)",
+    "solve_rate": 0.203125
+  },
+  {
+    "problem_id": "fresh_100",
+    "problem": "Find the shortest distance from a point on the line $y=x+1$ to a point on the circle $x^{2}+y^{2}+2x+4y+4=0$. Express your answer as a simple mathematical expression.",
+    "expected_answer": "\\sqrt{2}-1",
+    "solve_rate": 0.234375
+  },
+  {
+    "problem_id": "fresh_101",
+    "problem": "Given the complex number z satisfies the equation z + |z| = 2 + 8i, calculate the value of |z|^2. Express your answer as a single integer.",
+    "expected_answer": "289",
+    "solve_rate": 0.359375
+  },
+  {
+    "problem_id": "fresh_102",
+    "problem": "Given the system of linear equations $\\left\\{\\begin{array}{l}{mx+ny=8}\\\\{nx-my=1}\\end{array}\\right.$ and the solution set $\\left\\{\\begin{array}{l}{x=2}\\\\{y=1}\\end{array}\\right.$, find the arithmetic square root of $2m-n$. Express your answer as a single number.",
+    "expected_answer": "2",
+    "solve_rate": 0.484375
+  },
+  {
+    "problem_id": "fresh_103",
+    "problem": "Among the rectangles inscribed in a circle with a diameter of 4, find the largest possible area. Express your answer as a single number.",
+    "expected_answer": "8",
+    "solve_rate": 0.65625
+  },
+  {
+    "problem_id": "fresh_104",
+    "problem": "Given $\\lim_{Δx→0}\\frac{{f(4+Δx)-f(4-Δx)}}{{Δx}}=-10$, find the derivative f'(4). Express your answer as a single number.",
+    "expected_answer": "-5",
+    "solve_rate": 0.359375
+  },
+  {
+    "problem_id": "fresh_105",
+    "problem": "Find the sum of all integers whose absolute value is greater than 3 and less than 6. Express your answer as a single integer.",
+    "expected_answer": "0",
+    "solve_rate": 0.3125
+  },
+  {
+    "problem_id": "fresh_106",
+    "problem": "Given \\\\(\\\\operatorname{tg} x = \\\\frac{2ab}{a^2 - b^2}\\\\), where \\\\(a > b > 0\\\\) and \\\\(0^\\\\circ < x < 90^\\\\circ\\\\), calculate \\\\(\\\\sin x\\\\). Express your answer as a simplified fraction or expression.",
+    "expected_answer": "\\\\frac{2ab}{a^2 + b^2}",
+    "solve_rate": 0.4375
+  },
+  {
+    "problem_id": "fresh_107",
+    "problem": "Given that a line passes through the point (2, 1) and has an inclination angle of 135°, derive the equation of the line in the standard form Ax + By + C = 0. Express your answer in the form \\boxed{Ax + By + C = 0}.",
+    "expected_answer": "x + y - 3 = 0",
+    "solve_rate": 0.34375
+  },
+  {
+    "problem_id": "fresh_108",
+    "problem": "In a group stage of a football match, each pair of teams must play one home game and one away game. A total of 6 stadiums are used by the organizers, with 4 games scheduled at each stadium per day. If it takes 10 consecutive days to ensure that all group stage matches are completed, then how many teams are participating in this group stage? Express your answer as a whole number.",
+    "expected_answer": "16",
+    "solve_rate": 0.53125
+  },
+  {
+    "problem_id": "fresh_109",
+    "problem": "The equation of a hyperbola is given by $\\frac{y^{2}}{4}$-$x^{2}$=1. Find the length of the imaginary axis. Express your answer as a whole number.",
+    "expected_answer": "2",
+    "solve_rate": 0.265625
+  },
+  {
+    "problem_id": "fresh_110",
+    "problem": "For integers greater than 10 and less than 100, when the digits are swapped (i.e., the unit digit becomes the tens digit, and the tens digit becomes the unit digit), the new number is 9 more than the original number. How many such numbers are there? Express your answer as a whole number.",
+    "expected_answer": "8",
+    "solve_rate": 0.453125
+  },
+  {
+    "problem_id": "fresh_111",
+    "problem": "Find the symmetric point of the point (2, 3, 2) with respect to the xoy plane. Express your answer as a 3D coordinate (x, y, z).",
+    "expected_answer": "(2, 3, -2)",
+    "solve_rate": 0.59375
+  },
+  {
+    "problem_id": "fresh_112",
+    "problem": "Given a complex number ω = -1/2 + (√3)/2i, where i is the imaginary unit, calculate the value of 1 + ω + ω^2 + ω^3.",
+    "expected_answer": "1",
+    "solve_rate": 0.25
+  },
+  {
+    "problem_id": "fresh_113",
+    "problem": "Given the equation $$\\frac {z+2i}{z}=2+3i$$, where $i$ is the imaginary unit, calculate the conjugate of $z$, denoted as $\\dot{z}$. Express your answer in the form $a+bi$, where $a$ and $b$ are real numbers.",
+    "expected_answer": "\\frac {3}{5}- \\frac {1}{5}i",
+    "solve_rate": 0.3125
+  },
+  {
+    "problem_id": "fresh_114",
+    "problem": "Given the circle equation $(x-3)^2+(y+1)^2=r^2$ and point P(-2, 1), if there is exactly one tangent line to the circle passing through point P, find the radius $r$ of the circle. Express your answer as a numerical value, including the square root symbol if necessary.",
+    "expected_answer": "\\sqrt{29}",
+    "solve_rate": 0.53125
+  },
+  {
+    "problem_id": "fresh_115",
+    "problem": "Given that $|\\vec{a}|=1$, $|\\vec{b}|=1$, and the angle between $\\vec{a}$ and $\\vec{b}$ is 60°, calculate the magnitude of $2\\vec{a} - \\vec{b}$. Express your answer as a single value, including the square root symbol if necessary.",
+    "expected_answer": "\\sqrt{3}",
+    "solve_rate": 0.609375
+  },
+  {
+    "problem_id": "fresh_116",
+    "problem": "Two poles of heights 20 and 80 units are 100 units apart. Lines are drawn from the top of each pole to the base of the other. Find the height of the intersection point of these lines. Express your answer in units as a whole number.",
+    "expected_answer": "16",
+    "solve_rate": 0.234375
+  },
+  {
+    "problem_id": "fresh_117",
+    "problem": "Given the parabola x = 2y^2, find the coordinates of its focus. Express your answer as an ordered pair (x, y).",
+    "expected_answer": "(\\frac{1}{8}, 0)",
+    "solve_rate": 0.453125
+  },
+  {
+    "problem_id": "fresh_118",
+    "problem": "A high school senior needs to choose 3 out of 6 colleges to apply to, but cannot apply to two specific colleges at the same time because their exam times coincide. Calculate the total number of different application methods available to this student.",
+    "expected_answer": "16",
+    "solve_rate": 0.328125
+  },
+  {
+    "problem_id": "fresh_119",
+    "problem": "Given that angle A = 20 degrees and angle B = 25 degrees, use the tangent addition formula to find the value of (1 + tg A)(1 + tg B). Express your answer as a numerical value.",
+    "expected_answer": "2",
+    "solve_rate": 0.40625
+  },
+  {
+    "problem_id": "fresh_120",
+    "problem": "In the arithmetic sequence $\\{a_n\\}$, if $a_3+a_4+a_5=3$ and $a_8=8$, then find the value of $a_{12}$. Express your answer as a single integer.",
+    "expected_answer": "15",
+    "solve_rate": 0.65625
+  },
+  {
+    "problem_id": "fresh_121",
+    "problem": "What is the result of adding the fraction 1/3 a total of 7 times? Express your answer as an improper fraction or mixed number.",
+    "expected_answer": "\\frac{7}{3}",
+    "solve_rate": 0.640625
+  },
+  {
+    "problem_id": "fresh_122",
+    "problem": "Given an ellipse $\\frac {x^{2}}{m} + \\frac {y^{2}}{16} = 1$, the distance from a point P on the ellipse to one focus is 3, and the distance to the other focus is 7. Use the definition of an ellipse to find the value of $m$. Express your answer as a single numerical value.",
+    "expected_answer": "25",
+    "solve_rate": 0.3125
+  },
+  {
+    "problem_id": "fresh_123",
+    "problem": "Two real numbers a and b are randomly chosen from the interval (0,1). Find the probability that the equation x^2 - sqrt(a) x + b = 0 has real roots. Express your answer as a numerical value between 0 and 1.",
+    "expected_answer": "\\frac{1}{8}",
+    "solve_rate": 0.46875
+  },
+  {
+    "problem_id": "fresh_124",
+    "problem": "Given the set $A=\\{1, a^2\\}$, determine the set of values that the real number $a$ cannot take. Express your answer as a set.",
+    "expected_answer": "\\{-1, 1\\}",
+    "solve_rate": 0.421875
+  },
+  {
+    "problem_id": "fresh_125",
+    "problem": "Xiao Hua needs to attend an event at the Youth Palace at 2 PM, but his watch gains 4 minutes every hour. He reset his watch at 10 AM. Calculate how many minutes early Xiao Hua actually arrives at the event according to his watch at 2 PM. Express your answer in minutes as a whole number.",
+    "expected_answer": "16",
+    "solve_rate": 0.515625
+  },
+  {
+    "problem_id": "fresh_126",
+    "problem": "Given the circle equation $x^{2}+y^{2}+2x-2y-2=0$, find the coordinates of the center and the radius of the circle. Express the center as an ordered pair (x, y) and the radius as a numerical value.",
+    "expected_answer": "2",
+    "solve_rate": 0.609375
+  },
+  {
+    "problem_id": "fresh_127",
+    "problem": "Define the operation $$\\begin{vmatrix} a & b \\\\ c & d \\end{vmatrix} = ad - bc$$. Using this definition, find the complex number $z$ that satisfies $$\\begin{vmatrix} 1 & -1 \\\\ z & zi \\end{vmatrix} = 4 + 2i$$. Express your answer as a complex number in the form $a+bi$.",
+    "expected_answer": "3-i",
+    "solve_rate": 0.296875
+  },
+  {
+    "problem_id": "fresh_128",
+    "problem": "Given the equation \\sqrt{49 - x^2} - \\sqrt{25 - x^2} = 3, find the value of \\sqrt{49 - x^2} + \\sqrt{25 - x^2}. Express your answer as a numerical value.",
+    "expected_answer": "8",
+    "solve_rate": 0.328125
+  },
+  {
+    "problem_id": "fresh_129",
+    "problem": "A frustum with a height of 8 contains a sphere O1 with a radius of 2. The center of O1 is on the axis of the frustum, and O1 is tangent to the upper base and the lateral surface of the frustum. Another sphere O2 with a radius of 3 can be placed inside the frustum such that O2 is tangent to O1, the lower base, and the lateral surface of the frustum. Determine the maximum number of additional spheres with a radius of 3 that can be placed inside the frustum, excluding O2. Express your answer as a whole number.",
+    "expected_answer": "2",
+    "solve_rate": 0.203125
+  },
+  {
+    "problem_id": "fresh_130",
+    "problem": "Given a geometric sequence $\\{a_n\\}$ with positive terms, and $a_5 \\cdot a_6 = 9$, find the value of $\\log_3 a_1 + \\log_3 a_{10}$. Express your answer as a single number.",
+    "expected_answer": "2",
+    "solve_rate": 0.53125
+  },
+  {
+    "problem_id": "fresh_131",
+    "problem": "Given that the focus of the parabola $y^{2}=2px$ is on the line $2x+3y-4=0$, determine the equation of the directrix in the form of $x = \\\\text{value}$. Provide your answer in the format $\\boxed{x = \\\\text{value}}$.",
+    "expected_answer": "x=-2",
+    "solve_rate": 0.234375
+  },
+  {
+    "problem_id": "fresh_132",
+    "problem": "In the diagram, \\( AB \\) and \\( AC \\) have equal lengths. If the length of \\( AB \\) is 8 and the length of \\( AC \\) is represented as \\( 5 - k \\), calculate the value of \\( k \\). Express your answer as an integer.",
+    "expected_answer": "-3",
+    "solve_rate": 0.65625
+  },
+  {
+    "problem_id": "fresh_133",
+    "problem": "Given an infinite geometric sequence $\\{a_{n}\\}$ with the sum of the first $n$ terms denoted as $S_{n}$, if $S_{6}=3S_{3}$, calculate the value of $\\frac{a_{7} + a_{9}}{a_{1} + a_{3}}$. Express your answer as a single numerical value.",
+    "expected_answer": "4",
+    "solve_rate": 0.25
+  },
+  {
+    "problem_id": "fresh_134",
+    "problem": "Given $z = \\\\frac{i+1}{i-1}$, calculate the value of $z^{2}+z+1$. Express your answer as a complex number in the form $a+bi$.",
+    "expected_answer": "-i",
+    "solve_rate": 0.6875
+  },
+  {
+    "problem_id": "fresh_135",
+    "problem": "For any positive integers \\( n \\) and \\( k \\) such that \\( k \\leq n \\), let \\( f(n, k) \\) denote the number of positive integers that do not exceed \\( \\left\\lfloor \\frac{n}{k} \\right\\rfloor \\) and are coprime with \\( n \\). Calculate the value of \\( f(100, 3) \\). Express your answer as a whole number.",
+    "expected_answer": "14",
+    "solve_rate": 0.34375
+  },
+  {
+    "problem_id": "fresh_136",
+    "problem": "In the geometric sequence {a_n}, a_1 and a_5 are the roots of the equation x^2-10x+16=0. Given that a_1 and a_5 are positive, find the value of a_3.",
+    "expected_answer": "4",
+    "solve_rate": 0.515625
+  },
+  {
+    "problem_id": "fresh_137",
+    "problem": "Given the hyperbola $x^{2}-my^{2}=1$, the length of the real axis is twice that of the imaginary axis. Find the value of $m$. Express your answer as a single numerical value.",
+    "expected_answer": "4",
+    "solve_rate": 0.40625
+  },
+  {
+    "problem_id": "fresh_138",
+    "problem": "Given that $S_n$ represents the sum of the first $n$ terms of an arithmetic sequence $\\{a_n\\}$, and $S_9 = 18$, find the value of $a_3 + a_5 + a_7$. Express your answer as a single integer.",
+    "expected_answer": "6",
+    "solve_rate": 0.59375
+  },
+  {
+    "problem_id": "fresh_139",
+    "problem": "Given an arithmetic sequence {a_n} with the sum of its first n terms denoted as S_n, if a_6 / a_3 = 2, find the value of S_6 / S_3. Express your answer as a numerical value.",
+    "expected_answer": "\\frac{7}{2}",
+    "solve_rate": 0.28125
+  },
+  {
+    "problem_id": "fresh_140",
+    "problem": "Given vectors $\\overrightarrow{a} = (1, 3)$ and $\\overrightarrow{b} = (2, 1)$, if $\\overrightarrow{a} + 2\\overrightarrow{b}$ is parallel to $3\\overrightarrow{a} + \\lambda\\overrightarrow{b}$, calculate the value of $\\lambda$. Express your answer as a single numerical value.",
+    "expected_answer": "6",
+    "solve_rate": 0.28125
+  },
+  {
+    "problem_id": "fresh_141",
+    "problem": "Given $a, b \\in \\mathbb{R}$, and the equation $a-2i = (b-i)i$. If $z = a+bi$, find the imaginary part of $\\overline{z}$. Provide your answer as a single number.",
+    "expected_answer": "2",
+    "solve_rate": 0.34375
+  },
+  {
+    "problem_id": "fresh_142",
+    "problem": "Given the sequence $\\{ a_{n} \\}$ defined by $a_{n} = \\dfrac{2}{n(n+1)}$, find the sum of the first 100 terms of the sequence, denoted as $S_{100}$. Express your answer as a simplified fraction.",
+    "expected_answer": "\\dfrac{200}{101}",
+    "solve_rate": 0.640625
+  },
+  {
+    "problem_id": "fresh_143",
+    "problem": "Find the sum of the binomial coefficients in the expansion of $(1+2x)^5$. Express your answer as a single numerical value.",
+    "expected_answer": "32",
+    "solve_rate": 0.359375
+  },
+  {
+    "problem_id": "fresh_144",
+    "problem": "Express the decimal number 0.000016 in scientific notation, with the coefficient rounded to one non-zero digit to the left of the decimal point. Provide your answer in the form $\\boxed{a \\times 10^b}$, where $a$ is the coefficient and $b$ is the exponent.",
+    "expected_answer": "1.6 \\times 10^{-5}",
+    "solve_rate": 0.4375
+  },
+  {
+    "problem_id": "fresh_145",
+    "problem": "Let the function $y=g(x)$ be an odd function, and let $f(x)=2+g(x)$ have a maximum value of $M$ and a minimum value of $m$. Find the sum of $M$ and $m$. Express your answer as a single integer.",
+    "expected_answer": "4",
+    "solve_rate": 0.65625
+  },
+  {
+    "problem_id": "fresh_146",
+    "problem": "Given a non-zero common difference arithmetic sequence {a_{n}}, the sum of its first n terms is S_{n}, and a_{10} = S_{4}. Calculate the value of S_{8} / a_{9}.",
+    "expected_answer": "4",
+    "solve_rate": 0.34375
+  },
+  {
+    "problem_id": "fresh_147",
+    "problem": "Given the following relative positions of the towns:\n- Cans is north of Ernie.\n- Dundee is south of Cans but north of Ernie.\n- Arva is south of Blythe and north of both Dundee and Cans.\nDetermine the name of the town that is the most north.",
+    "expected_answer": "Blythe",
+    "solve_rate": 0.34375
+  },
+  {
+    "problem_id": "fresh_148",
+    "problem": "A commodity has undergone two consecutive price increases, resulting in a current price that is 44% higher than its original price. If the percentage increase for both price adjustments is the same, calculate this uniform percentage increase. Express your answer as a percentage.",
+    "expected_answer": "20\\%",
+    "solve_rate": 0.640625
+  },
+  {
+    "problem_id": "fresh_149",
+    "problem": "In the algebraic expressions $-1$, $-\\frac{2}{3}a^{2}$, $\\frac{1}{6}x^{2}y$, $3a+b$, $0$, $\\frac{{x-1}}{2}$, how many monomials are there? Express your answer as a whole number.",
+    "expected_answer": "4",
+    "solve_rate": 0.203125
+  },
+  {
+    "problem_id": "fresh_150",
+    "problem": "Given that the function $y=f(x)$ is increasing on $\\mathbb{R}$, and $f(2m+1) > f(3m-4)$, find the range of $m$. Express your answer in interval notation.",
+    "expected_answer": "(-\\infty, 5)",
+    "solve_rate": 0.234375
+  },
+  {
+    "problem_id": "fresh_151",
+    "problem": "Determine the number of prime numbers p such that both p+10 and p+14 are also prime numbers. Express your answer as a single integer.",
+    "expected_answer": "1",
+    "solve_rate": 0.203125
+  },
+  {
+    "problem_id": "fresh_152",
+    "problem": "A number x is randomly selected from the interval [-π/2, π/2]. Find the probability that the value of cos(x) lies between 0 and 1/2. Express your answer as a simplified fraction.",
+    "expected_answer": "\\frac{1}{3}",
+    "solve_rate": 0.359375
+  },
+  {
+    "problem_id": "fresh_153",
+    "problem": "Given the hyperbola $x^{2}+my^{2}=1$, its conjugate axis is twice the length of its transverse axis. Calculate the eccentricity $e$ of the hyperbola. Express your answer as a numerical value.",
+    "expected_answer": "\\sqrt{5}",
+    "solve_rate": 0.28125
+  },
+  {
+    "problem_id": "fresh_154",
+    "problem": "Given a function f(x) that satisfies the symmetry condition f(3 + x) = f(3 - x) for all real numbers x, and given that the equation f(x) = 0 has exactly 6 distinct real roots, calculate the sum of these 6 roots.",
+    "expected_answer": "18",
+    "solve_rate": 0.3125
+  },
+  {
+    "problem_id": "fresh_155",
+    "problem": "Given tan(alpha) = 3, evaluate the following expression:\n\n(sin(alpha - pi) + cos(pi - alpha)) / (sin(pi/2 - alpha) + cos(pi/2 + alpha))\n\nExpress your answer as a single numerical value.",
+    "expected_answer": "2",
+    "solve_rate": 0.328125
+  },
+  {
+    "problem_id": "fresh_156",
+    "problem": "Given the sequence of equations:\n\n${1}^{3}+{2}^{3}={\\left( \\frac{2\\times 3}{2}\\right)}^{2}$,\n\n${1}^{3}+{2}^{3}+{3}^{3}={\\left( \\frac{3\\times 4}{2}\\right)}^{2}$,\n\n${1}^{3}+{2}^{3}+{3}^{3}+{4}^{3}={\\left( \\frac{4\\times 5}{2}\\right)}^{2}$,\n\n$⋮$\n\nFind the value of n such that ${1}^{3}+{2}^{3}+{3}^{3}+...+{n}^{3}=3025$. Express your answer as a whole number.",
+    "expected_answer": "10",
+    "solve_rate": 0.59375
+  },
+  {
+    "problem_id": "fresh_157",
+    "problem": "Amy, Becky, and Chloe went shopping. Becky spent only 15% of what Chloe spent. However, Amy spent 60% more than Chloe. Together they spent £55. Calculate the amount Amy spent. Express your answer in pounds (£).",
+    "expected_answer": "£32",
+    "solve_rate": 0.265625
+  },
+  {
+    "problem_id": "fresh_158",
+    "problem": "Given the linear functions $y = (m^2 - 4)x + (1 - m)$ and $y = (m + 2)x + (m^2 - 3)$, find the value of $m$ such that their y-intercepts are symmetric about the x-axis. Express your answer as a single numerical value.",
+    "expected_answer": "-1",
+    "solve_rate": 0.296875
+  },
+  {
+    "problem_id": "fresh_159",
+    "problem": "Two fair cubic dice, each with faces labeled with dot numbers (1), (2), (3), (4), (5), (6), are rolled sequentially. Let (x, y) represent the dot numbers on the upper faces of the two dice. Find the probability that (log_{2x} y = 1). Express your answer as a simplified fraction.",
+    "expected_answer": "\\frac{1}{12}",
+    "solve_rate": 0.421875
+  },
+  {
+    "problem_id": "fresh_160",
+    "problem": "Given the parabola $C$: $y^{2}=4x$, and $F$ is the focus of parabola $C$, find the minimum value of $|PF|$ for any point $P$ on the parabola. Express your answer as a single number.",
+    "expected_answer": "1",
+    "solve_rate": 0.375
+  },
+  {
+    "problem_id": "fresh_161",
+    "problem": "Find the range of values for $a$ such that the function $f(x) = (2-a^2)x + a$ is always positive on the interval $[0, 1]$. Express your answer as an inequality using standard mathematical notation.",
+    "expected_answer": "0 < a < 2",
+    "solve_rate": 0.453125
+  },
+  {
+    "problem_id": "fresh_162",
+    "problem": "Given that the diagonals of parallelogram ABCD intersect at point O, where E is the midpoint of AO, if AE = λAB + μAD, calculate the sum of λ and μ. Express your answer as a single fraction.",
+    "expected_answer": "\\frac{1}{2}",
+    "solve_rate": 0.328125
+  },
+  {
+    "problem_id": "fresh_163",
+    "problem": "Given the regression equation $$\\hat y = 4.75x + 257$$, calculate the estimated value of y when x = 28. Express your answer as a single numerical value.",
+    "expected_answer": "390",
+    "solve_rate": 0.359375
+  },
+  {
+    "problem_id": "fresh_164",
+    "problem": "Determine the domain of the function $f(x)=\\frac{\\sqrt{x-2}}{x-3}+\\log_{10}(4-x)$. Express your answer in interval notation, including any necessary union or intersection symbols.",
+    "expected_answer": "[2,3) \\cup (3,4)",
+    "solve_rate": 0.671875
+  },
+  {
+    "problem_id": "fresh_165",
+    "problem": "Given that the complex number z satisfies the equation z(1+i) = |-1 + sqrt(3)i|, calculate the conjugate of the complex number z. Express your answer as a complex number in the form a + bi.",
+    "expected_answer": "1+i",
+    "solve_rate": 0.609375
+  },
+  {
+    "problem_id": "fresh_166",
+    "problem": "A man was x years old in the year x^2. If he was born in the first half of the 19th century, calculate his year of birth. Express your answer as a single year.",
+    "expected_answer": "1806",
+    "solve_rate": 0.390625
+  },
+  {
+    "problem_id": "fresh_167",
+    "problem": "Given vectors $\\overrightarrow{a}$ and $\\overrightarrow{b}$ satisfying $|\\overrightarrow{a}|=3$, $|\\overrightarrow{b}|=2$, and $|\\overrightarrow{a} + \\overrightarrow{b}|=4$, calculate the magnitude of $|\\overrightarrow{a} - \\overrightarrow{b}|$. Express your answer as a square root if necessary.",
+    "expected_answer": "\\sqrt{10}",
+    "solve_rate": 0.609375
+  },
+  {
+    "problem_id": "fresh_168",
+    "problem": "Given the two circles with equations $x^{2}+y^{2}-4x+2y+1=0$ and $x^{2}+y^{2}+4x-4y-1=0$, determine the number of common tangent lines they have. Express your answer as a single numerical value.",
+    "expected_answer": "3",
+    "solve_rate": 0.421875
+  },
+  {
+    "problem_id": "fresh_169",
+    "problem": "Given a complex number z that satisfies 2(z - conjugate(z)) + z * conjugate(z) = 2 + 4i, where the point corresponding to z in the complex plane lies in the second quadrant, find the value of z. Express your answer in the form a + bi.",
+    "expected_answer": "-1 + i",
+    "solve_rate": 0.53125
+  },
+  {
+    "problem_id": "fresh_170",
+    "problem": "In triangle $\\triangle OAB$, let $\\overrightarrow{OA}=(2\\cos \\alpha, 2\\sin \\alpha)$ and $\\overrightarrow{OB}=(5\\cos \\beta, 5\\sin \\beta)$. If $\\overrightarrow{OA} \\cdot \\overrightarrow{OB} = -5$, then calculate the area of $\\triangle OAB$, $S_{\\triangle OAB}$. Express your answer as a numerical value.",
+    "expected_answer": "\\dfrac{5\\sqrt{3}}{2}",
+    "solve_rate": 0.421875
+  },
+  {
+    "problem_id": "fresh_171",
+    "problem": "If $\\tan \\alpha - \\frac{1}{\\tan \\alpha} = \\frac{3}{2}, \\alpha \\in (\\frac{\\pi}{4}, \\frac{\\pi}{2})$, find the value of $\\sin(2\\alpha + \\frac{\\pi}{4})$. Express your answer as a single value.",
+    "expected_answer": "\\frac{\\sqrt{2}}{10}",
+    "solve_rate": 0.28125
+  },
+  {
+    "problem_id": "fresh_172",
+    "problem": "Given $$\\overrightarrow {a} = (\\sin\\alpha, \\cos\\alpha)$$ and $$\\overrightarrow {b} = (-2, 1)$$, if $$\\overrightarrow {a} \\perp \\overrightarrow {b}$$, calculate the value of $\\tan\\alpha$. Express your answer as a single value.",
+    "expected_answer": "\\frac{1}{2}",
+    "solve_rate": 0.625
+  },
+  {
+    "problem_id": "fresh_173",
+    "problem": "Given the equation $(ax^2+bx-5)(ax^2+bx+25)+c=(ax^2+bx+10)^2$, find the value of $c$ that makes the equation true. Express your answer as a single integer.",
+    "expected_answer": "225",
+    "solve_rate": 0.46875
+  },
+  {
+    "problem_id": "fresh_174",
+    "problem": "Glenda, Helga, Ioana, Julia, Karl, and Liu participated in the 2017 Canadian Team Mathematics Contest. On their team uniforms, each had a different number chosen from the list 11, 12, 13, 14, 15, 16. Helga's and Julia's numbers were even. Karl's and Liu's numbers were prime numbers. Glenda's number was a perfect square. What was Ioana's number? Express your answer as a single integer.",
+    "expected_answer": "15",
+    "solve_rate": 0.46875
+  },
+  {
+    "problem_id": "fresh_175",
+    "problem": "Given the parabola x²=16y, the distance from point P on the parabola to the focus F is 8. Find the area of △OPF, where O is the coordinate origin. Express your answer as a whole number.",
+    "expected_answer": "16",
+    "solve_rate": 0.328125
+  },
+  {
+    "problem_id": "fresh_176",
+    "problem": "Given the function $f(x)=2^{x}+ \\frac {1}{2^{x+2}}$, find the value of $x$ that minimizes $f(x)$. Express your answer as a single value of $x$.",
+    "expected_answer": "-1",
+    "solve_rate": 0.40625
+  },
+  {
+    "problem_id": "fresh_177",
+    "problem": "Given that $i$ is the imaginary unit, and complex number $z$ satisfies $i \\cdot z = (1 - 2i)^2$, calculate the value of $z$. Express your answer in the form $a + bi$, where $a$ and $b$ are real numbers.",
+    "expected_answer": "-4 + 3i",
+    "solve_rate": 0.25
+  },
+  {
+    "problem_id": "fresh_178",
+    "problem": "Given that the geometric sequence $\\{a_n\\}$ is increasing and $S_n$ is the sum of the first $n$ terms of $\\{a_n\\}$. If $a_1 + a_3 = 5$ and $a_1 a_3 = 4$, calculate the exact value of $S_6$.",
+    "expected_answer": "63",
+    "solve_rate": 0.3125
+  },
+  {
+    "problem_id": "fresh_179",
+    "problem": "Several people plan to pool their money to buy an item. If each person contributes $12, they will be $3 short; if each person contributes $13, they will have $12 left over. Find the total number of people. Express your answer as a whole number.",
+    "expected_answer": "15",
+    "solve_rate": 0.5625
+  },
+  {
+    "problem_id": "fresh_180",
+    "problem": "Given the sequence 1, 3, 7, 15, 31,..., find the general formula for the nth term, denoted as a_n. Express your answer in the form a_n =....",
+    "expected_answer": "a_n = 2^n - 1",
+    "solve_rate": 0.453125
+  },
+  {
+    "problem_id": "fresh_181",
+    "problem": "Given the universal set U = {1, 2, 3, 4} and set A = {1, 2}, determine the number of sets B that satisfy the condition A ∪ B = U. Express your answer as a whole number.",
+    "expected_answer": "4",
+    "solve_rate": 0.328125
+  },
+  {
+    "problem_id": "fresh_182",
+    "problem": "A sports stadium has four gates on the south side and three gates on the north side. If a person goes there for morning exercises, how many total options does he have for entry and exit? Express your answer as a single integer.",
+    "expected_answer": "49",
+    "solve_rate": 0.46875
+  },
+  {
+    "problem_id": "fresh_183",
+    "problem": "Find the minimum value of 2x - y within the enclosed area formed by the curve y = |x| and y = 2. Express your answer as a single numerical value in the form \\boxed{[answer]}.",
+    "expected_answer": "-6",
+    "solve_rate": 0.671875
+  },
+  {
+    "problem_id": "fresh_184",
+    "problem": "Given vectors $\\overrightarrow{a}=(1,0)$ and $\\overrightarrow{b}$ with magnitude 2, and an angle of $120^{\\circ}$ between them, calculate the magnitude of $2\\overrightarrow{a}+\\overrightarrow{b}$. Express your answer as a single number.",
+    "expected_answer": "2",
+    "solve_rate": 0.53125
+  },
+  {
+    "problem_id": "fresh_185",
+    "problem": "A driver consumes a certain amount of alcohol, causing the alcohol content in their blood to rise to 1mg/mL. If after stopping drinking, the alcohol content in their blood decreases at a rate of 20% per hour, how many hours will it take for the alcohol content to decrease to 20mg in 100mL of blood, which is the threshold for being considered safe to drive under the influence? Express your answer as a whole number of hours.",
+    "expected_answer": "8",
+    "solve_rate": 0.40625
+  },
+  {
+    "problem_id": "fresh_186",
+    "problem": "Given the function f(x) = x^2 + m and g(x) = 6lnx - 4x defined on (0, +∞), if the tangent lines of the curves y = f(x) and y = g(x) are the same at their common points, find the value of m. Express your answer as an integer in the form \\boxed{m}.",
+    "expected_answer": "-5",
+    "solve_rate": 0.59375
+  },
+  {
+    "problem_id": "fresh_187",
+    "problem": "Find the value of the real number $a$ given that the coefficient of $x^{7}$ in the expansion of $(x-a)^{10}$ is $15$. Express your answer as a single real number.",
+    "expected_answer": "-\\frac{1}{2}",
+    "solve_rate": 0.40625
+  },
+  {
+    "problem_id": "fresh_188",
+    "problem": "Given the function f(x) = ax^2 - sqrt(2), where a is a constant, find the value of a that satisfies f(f(sqrt(2))) = -sqrt(2). Express your answer as a single value in terms of sqrt(2).",
+    "expected_answer": "\\frac{\\sqrt{2}}{2}",
+    "solve_rate": 0.546875
+  },
+  {
+    "problem_id": "fresh_189",
+    "problem": "Find the value of the complex number $\\left( \\frac{1}{2} - \\frac{\\sqrt{3}}{2}i \\right)^{3}$, where $i$ is the imaginary unit. Express your answer as a simplified complex number.",
+    "expected_answer": "-1",
+    "solve_rate": 0.625
+  },
+  {
+    "problem_id": "fresh_190",
+    "problem": "The sequence ${a_n}$ satisfies $a_1=1$, and for any $m$, $n\\in N^*$, it satisfies $a_{m+n}=a_m+a_n+mn$. Calculate the sum of the reciprocals of the first 20 terms of the sequence, i.e., $\\frac{1}{a_1}+\\frac{1}{a_2}+...+\\frac{1}{a_{20}}$. Express your answer as a fraction in simplest form.",
+    "expected_answer": "\\frac{40}{21}",
+    "solve_rate": 0.375
+  },
+  {
+    "problem_id": "fresh_191",
+    "problem": "Given that the angle between vector $\\overrightarrow{a}$ and vector $\\overrightarrow{a} - \\overrightarrow{b}$ is $\\frac{\\pi}{3}$, and $|\\overrightarrow{a}| = 1$, $|\\overrightarrow{a} - \\overrightarrow{b}| = 3$, calculate the value of $|\\overrightarrow{b}|$. Express your answer as a numerical value.",
+    "expected_answer": "\\sqrt{7}",
+    "solve_rate": 0.203125
+  },
+  {
+    "problem_id": "fresh_192",
+    "problem": "Given the function f(x) = ax^2 - √2, find the value of the constant a that satisfies the equation f(f(√2)) = -√2. Express your answer as a single value.",
+    "expected_answer": "\\frac{\\sqrt{2}}{2}",
+    "solve_rate": 0.671875
+  },
+  {
+    "problem_id": "fresh_193",
+    "problem": "Negate the proposition \"$\\exists x > 0$, $\\ln x \\leqslant x+1$\". Express your answer as a logical statement.",
+    "expected_answer": "\\forall x > 0, \\ln x > x+1",
+    "solve_rate": 0.578125
+  },
+  {
+    "problem_id": "fresh_194",
+    "problem": "A right triangular pyramid has three mutually perpendicular side edges of equal length. The surface area of its circumscribed sphere is $4π$. Find the length of the side edge. Express your answer as a simplified fraction or exact decimal if necessary, including any necessary mathematical notation (e.g., square roots).",
+    "expected_answer": "\\frac{2\\sqrt{3}}{3}",
+    "solve_rate": 0.265625
+  },
+  {
+    "problem_id": "fresh_195",
+    "problem": "Given that the angle between vectors $\\overrightarrow {a}$ and $\\overrightarrow {b}$ is 120°, and the magnitude of $\\overrightarrow {a}$ is 2, and the magnitude of $\\overrightarrow {b}$ is 4, calculate the projection of $\\overrightarrow {b}$ on $\\overrightarrow {a}$. Express your answer as a single number.",
+    "expected_answer": "-2",
+    "solve_rate": 0.609375
+  },
+  {
+    "problem_id": "fresh_196",
+    "problem": "Given that f'(x0) = -3, calculate the limit as h approaches 0 of [f(x0+h) - f(x0-3h)]/h. Express your answer as a single integer.",
+    "expected_answer": "-12",
+    "solve_rate": 0.234375
+  },
+  {
+    "problem_id": "fresh_197",
+    "problem": "Given the profit equation s = -2t^2 + 30t - 98, where s is the profit in units of ten thousand yuan and t is the operating time in years, find the value of t that maximizes the annual average profit f(t) = s/t. Express your answer as a single positive integer.",
+    "expected_answer": "7",
+    "solve_rate": 0.59375
+  },
+  {
+    "problem_id": "fresh_198",
+    "problem": "Expand $\\left(x^{2}-2xy+y^{2}\\right)^{7}$ and find the sum of its coefficients. Express your answer as a single integer.",
+    "expected_answer": "0",
+    "solve_rate": 0.4375
+  },
+  {
+    "problem_id": "fresh_199",
+    "problem": "Simplify the expression $\\frac{{2x-1}}{{x-1}}+\\frac{x}{{1-x}}$. Provide your answer as a simplified algebraic expression.",
+    "expected_answer": "1",
+    "solve_rate": 0.375
+  },
+  {
+    "problem_id": "fresh_200",
+    "problem": "The surface area of a cube with side length $a$ can be calculated using a specific formula. Express the surface area of the cube in terms of $a$. Provide your answer as a formula.",
+    "expected_answer": "6a^2",
+    "solve_rate": 0.6875
+  },
+  {
+    "problem_id": "fresh_201",
+    "problem": "There are two rectangles, A and B. The length and width of rectangle A are $x$ cm and $y$ cm, respectively. The length and width of rectangle B are each 1 cm less than those of rectangle A. Calculate the difference in area between rectangle A and rectangle B. Express your answer as an algebraic expression in terms of $x$ and $y$, including units (cm^2).",
+    "expected_answer": "x + y - 1",
+    "solve_rate": 0.625
+  },
+  {
+    "problem_id": "fresh_202",
+    "problem": "Let the sequence $a_n$ be an arithmetic sequence, and its sum of the first $n$ terms be $S_n$. Given that $a_1+a_3+a_8=99$ and $a_5=31$, find the value of $k$ such that $S_n \\leq S_k$ for all $n \\in \\mathbb{N}^*$. Express your answer as a single integer value.",
+    "expected_answer": "20",
+    "solve_rate": 0.265625
+  },
+  {
+    "problem_id": "fresh_203",
+    "problem": "Given that S_{n} is the sum of the first n terms of an arithmetic sequence {a_{n}}, if S_{1} = 1 and S_{4}/S_{2} = 4, find the value of S_{6}/S_{4}. Express your answer as a simplified fraction.",
+    "expected_answer": "9/4",
+    "solve_rate": 0.265625
+  },
+  {
+    "problem_id": "fresh_204",
+    "problem": "Let $U=\\mathbb{R}$, and the sets $A=\\{x|x>1\\}$, $B=\\{x|x>a\\}$. If $(\\complement_U A) \\cup B = \\mathbb{R}$, then find the range of $a$. Express your answer as an interval, using infinity notation and including any relevant endpoints.",
+    "expected_answer": "(-\\infty, 1]",
+    "solve_rate": 0.53125
+  },
+  {
+    "problem_id": "fresh_205",
+    "problem": "Given a function f(x) with domain R that satisfies f(a+b) = f(a)f(b) for all a,b in R, and f(x) > 0. If f(1) = 1/2, then find the value of f(-2). Express your answer as a single number.",
+    "expected_answer": "4",
+    "solve_rate": 0.59375
+  },
+  {
+    "problem_id": "fresh_206",
+    "problem": "Given $\\tan(\\pi-x) = \\frac{3}{4}$, find the value of $\\tan(2x)$. Express your answer as a fraction.",
+    "expected_answer": "-\\frac{24}{7}",
+    "solve_rate": 0.5625
+  },
+  {
+    "problem_id": "fresh_207",
+    "problem": "Find the range of values for $m$ that allows the equation $x^{2}-4x+m=0$ to have two distinct real roots. Express your answer as an inequality.",
+    "expected_answer": "m < 4",
+    "solve_rate": 0.421875
+  },
+  {
+    "problem_id": "fresh_208",
+    "problem": "Find the sum of the numbers 1.000, 0.101, 0.011, and 0.001. Express your answer as a decimal number with all significant digits.",
+    "expected_answer": "1.113",
+    "solve_rate": 0.53125
+  },
+  {
+    "problem_id": "fresh_209",
+    "problem": "Find the area enclosed by the curve y = sin(x) (0 ≤ x ≤ 2π) and the coordinate axes. Express your answer as a single number.",
+    "expected_answer": "= 4",
+    "solve_rate": 0.484375
+  },
+  {
+    "problem_id": "fresh_210",
+    "problem": "Find the maximum value of the function $f(x)=\\sin 2x-\\cos \\left( 2x+\\dfrac{\\pi}{6} \\right)$. Express your answer as a single value.",
+    "expected_answer": "\\sqrt{3}",
+    "solve_rate": 0.234375
+  },
+  {
+    "problem_id": "fresh_211",
+    "problem": "Convert the number 29.47 thousand into scientific notation. Express your answer in the form a × 10^b, where a is the base and b is the exponent.",
+    "expected_answer": "2.947 \\times 10^4",
+    "solve_rate": 0.53125
+  },
+  {
+    "problem_id": "fresh_212",
+    "problem": "Two numbers are selected without replacement from the set {1, 2, 3, 4, 5}. Let event A denote \"the first number selected is odd\", and let event B denote \"the second number selected is odd\". Determine P(B|A). Express your answer as a fraction or decimal.",
+    "expected_answer": "1/2",
+    "solve_rate": 0.515625
+  },
+  {
+    "problem_id": "fresh_213",
+    "problem": "Given that $i$ is the imaginary unit, let set $A = \\{n \\in \\mathbb{N^*} | i^n = -1\\}$. Find the smallest element in set $A$. Express your answer as a single integer.",
+    "expected_answer": "2",
+    "solve_rate": 0.671875
+  },
+  {
+    "problem_id": "fresh_214",
+    "problem": "Hank drove to work at an average speed of 70 km/h on Monday and arrived 1 minute late. On Tuesday, he left at the same time and took the same route, but drove at an average speed of 75 km/h and arrived 1 minute early. Find the length of Hank's route to work. Express your answer in kilometers as a whole number.",
+    "expected_answer": "35",
+    "solve_rate": 0.359375
+  },
+  {
+    "problem_id": "fresh_215",
+    "problem": "Given the set $M={(m,n)|0 < m < 2, 0 < n < 3, m, n∈R}$, calculate the probability that the quadratic equation $\\frac{m}{4}x^{2}+nx+m=0$ has real roots for any $(m,n)∈M$. Express your answer as a fraction.",
+    "expected_answer": "\\frac{2}{3}",
+    "solve_rate": 0.21875
+  },
+  {
+    "problem_id": "fresh_216",
+    "problem": "Given a positive term arithmetic sequence $\\{a_n\\}$ satisfying $a_{n+1} + a_{n-1} = a_n^2$ for $(n\\geq2)$, and a geometric sequence $\\{b_n\\}$ satisfying $b_{n+1}b_{n-1} = 2b_n$ for $(n\\geq2)$, calculate the value of $\\log_2(a_2 + b_2)$. Express your answer as a single integer.",
+    "expected_answer": "2",
+    "solve_rate": 0.203125
+  },
+  {
+    "problem_id": "fresh_217",
+    "problem": "In a positive geometric sequence {a_n}, if a_4a_7 = 4, then find the sum of the first 10 terms of the sequence {log_2 a_n}. Express your answer as a single numerical value.",
+    "expected_answer": "10",
+    "solve_rate": 0.40625
+  },
+  {
+    "problem_id": "fresh_218",
+    "problem": "Given the curve $f(x)= \\frac{2}{3}x^{3}$ at the point $(1,f(1))$, the slope angle of the tangent line is $\\alpha$. Calculate the value of $\\frac{{\\sin }^{2}\\alpha-{\\cos }^{2}\\alpha}{2\\sin \\alpha\\cos \\alpha+{\\cos }^{2}\\alpha}$. Express your answer as a numerical value.",
+    "expected_answer": "\\frac{3}{5}",
+    "solve_rate": 0.453125
+  },
+  {
+    "problem_id": "fresh_219",
+    "problem": "Given the quadratic equation x^2 + px + q = 0, where p and q are positive numbers, and the difference between its roots is 1, find the value of p in terms of q. Express your answer in simplest radical form if necessary.",
+    "expected_answer": "\\sqrt{4q + 1}",
+    "solve_rate": 0.578125
+  },
+  {
+    "problem_id": "fresh_220",
+    "problem": "Given vectors u = (4,0) and u + v = (2, 2√3), calculate the magnitude of the vector product |u × (u - v)|.",
+    "expected_answer": "8\\sqrt{3}",
+    "solve_rate": 0.546875
+  },
+  {
+    "problem_id": "fresh_221",
+    "problem": "Given the hyperbola $mx^{2}-ny^{2}=1\\,(m > 0,n > 0)$ with an eccentricity of $2$, find the eccentricity of the ellipse $mx^{2}+ny^{2}=1$. Express your answer as a numerical value, including any necessary radicals.",
+    "expected_answer": "\\frac{\\sqrt{6}}{3}",
+    "solve_rate": 0.3125
+  },
+  {
+    "problem_id": "fresh_222",
+    "problem": "A system sampling method is used to survey 32 out of 960 people. They are numbered 1, 2,... 960. After grouping, the number drawn using a simple random sampling method in the first group is 9. Calculate the number of people whose numbers fall within the interval [1, 450].",
+    "expected_answer": "15",
+    "solve_rate": 0.515625
+  },
+  {
+    "problem_id": "fresh_223",
+    "problem": "Given the sets $A=\\{x|-1\\leqslant x < 3\\}$ and $B=\\{x|2 < x\\leqslant 5\\}$, find the union of sets A and B, $A\\cup B$, in interval notation.",
+    "expected_answer": "[-1,5]",
+    "solve_rate": 0.328125
+  },
+  {
+    "problem_id": "fresh_224",
+    "problem": "At the end of the year 2000, Steve had $100 and Wayne had $10000. At the end of each following year, Steve had twice as much money as he did at the end of the previous year and Wayne had half as much money as he did at the end of the previous year. In what year did Steve have more money than Wayne for the first time? Express your answer as a year.",
+    "expected_answer": "2004",
+    "solve_rate": 0.25
+  },
+  {
+    "problem_id": "fresh_225",
+    "problem": "Given an odd function $f(x)$ defined on $\\mathbb{R}$, whose graph is symmetric about the line $x=1$, and $f(-1)=1$, calculate the value of $f(1)+f(2)+f(3)+\\ldots+f(2015)$. Express your answer as a single integer.",
+    "expected_answer": "0",
+    "solve_rate": 0.3125
+  },
+  {
+    "problem_id": "fresh_226",
+    "problem": "Given $x > -3$, find the minimum value of the expression $2x+\\frac{1}{x+3}$. Express your answer as a single value, including any necessary mathematical notation.",
+    "expected_answer": "2\\sqrt{2}-6",
+    "solve_rate": 0.4375
+  },
+  {
+    "problem_id": "fresh_227",
+    "problem": "Given $\\log_{2}3=a$ and $\\log_{2}5=b$, calculate the value of $\\log_{2} \\frac{9}{5}$ in terms of $a$ and $b$. Express your answer as an equation.",
+    "expected_answer": "2a-b",
+    "solve_rate": 0.671875
+  },
+  {
+    "problem_id": "fresh_228",
+    "problem": "Find the conjugate of the complex number $$\\frac {1}{i}$$. Express your answer in standard complex number notation.",
+    "expected_answer": "i",
+    "solve_rate": 0.53125
+  },
+  {
+    "problem_id": "fresh_229",
+    "problem": "In the parallelepiped $ABCD-A'B'C'D'$, the relationship between vectors is given by $\\overrightarrow {AC'}= \\overrightarrow {AB}+ \\overrightarrow {BC}+ \\overrightarrow {CC'}$. If $\\overrightarrow {AC'}=x \\overrightarrow {AB}+2y \\overrightarrow {BC}-3z \\overrightarrow {CC'}$, find the value of $x+y+z$. Express your answer as a single fraction or decimal.",
+    "expected_answer": "\\frac{7}{6}",
+    "solve_rate": 0.203125
+  },
+  {
+    "problem_id": "fresh_230",
+    "problem": "Find the minimum positive period of the function y = sin(x) * |cos(x)|. Express your answer in terms of π.",
+    "expected_answer": "2\\pi",
+    "solve_rate": 0.28125
+  },
+  {
+    "problem_id": "fresh_231",
+    "problem": "Given the parabola $y^{2}=x$ and the ellipse $\\frac {x^{2}}{a^{2}}+ \\frac {y^{2}}{3}=1$, where the focus of the parabola is also a focus of the ellipse, calculate the eccentricity of the ellipse. Express your answer as a simplified fraction.",
+    "expected_answer": "\\frac{1}{7}",
+    "solve_rate": 0.515625
+  },
+  {
+    "problem_id": "fresh_232",
+    "problem": "Given the sequence $\\left\\{ a_n \\right\\}$, where $a_1=2$ and $a_{n+1}=a_n+2n$ $(n\\in\\mathbb{N}^*)$, find the value of $a_{100}$. Express your answer as a single integer.",
+    "expected_answer": "9902",
+    "solve_rate": 0.296875
+  },
+  {
+    "problem_id": "fresh_233",
+    "problem": "Given the universal set U = Z, set A = {1, 2}, and A∪B = {1, 2, 3, 4}, calculate (∁<sub>U</sub>A)∩B. Express your answer as a set of integers using standard set notation (e.g., {a, b, c}).",
+    "expected_answer": "\\{3, 4\\}",
+    "solve_rate": 0.609375
+  },
+  {
+    "problem_id": "fresh_234",
+    "problem": "In a shooting competition, a certain participant has a probability of $\\frac{4}{5}$ of hitting the bullseye (10 points) in a single shot. The probability of hitting the bullseye twice in a row is $\\frac{1}{2}$. Given that the participant hit the bullseye once, calculate the probability of hitting it again on the next shot. Express your answer as a simplified fraction.",
+    "expected_answer": "\\frac{5}{8}",
+    "solve_rate": 0.34375
+  },
+  {
+    "problem_id": "fresh_235",
+    "problem": "Given the sets $M=\\{x|x\\leqslant 0\\}$ and $N=\\{-2,0,1\\}$, find the intersection $M\\cap N$. Express your answer as a set, including all elements that belong to both sets.",
+    "expected_answer": "\\{-2,0\\}",
+    "solve_rate": 0.6875
+  },
+  {
+    "problem_id": "fresh_236",
+    "problem": "Simplify the expression $\\sin^2(2\\pi - \\alpha) + \\cos(\\pi + \\alpha)\\cos(\\pi - \\alpha) + 1$ using trigonometric identities and properties. Express your answer as a single numerical value.",
+    "expected_answer": "2",
+    "solve_rate": 0.296875
+  },
+  {
+    "problem_id": "fresh_237",
+    "problem": "Given sets $A=\\{x\\in N^{*}|x\\leqslant e\\}$ and $B=\\{0,1,2,3\\}$, find the intersection $A\\cap B$. Express your answer as a set of integers.",
+    "expected_answer": "\\{1, 2\\}",
+    "solve_rate": 0.28125
+  },
+  {
+    "problem_id": "fresh_238",
+    "problem": "Given $a=\\sqrt{5}$, $b=2$, $c=\\sqrt{3}$, determine the relationship between $a$, $b$, and $c$. Express your answer using the symbols >, <, or = to denote the relationship (e.g., a > b > c).",
+    "expected_answer": "a > b > c",
+    "solve_rate": 0.59375
+  },
+  {
+    "problem_id": "fresh_239",
+    "problem": "Given that {a_n} is an arithmetic sequence, and the sum a_2 + a_3 + a_{10} + a_{11} = 48, find the value of a_6 + a_7. Express your answer as a single numerical value.",
+    "expected_answer": "24",
+    "solve_rate": 0.640625
+  },
+  {
+    "problem_id": "fresh_240",
+    "problem": "Given vectors a = (2, -3) and b = (3, λ), and a ∥ b, find the value of λ.",
+    "expected_answer": "-\\frac{9}{2}",
+    "solve_rate": 0.546875
+  },
+  {
+    "problem_id": "fresh_241",
+    "problem": "Given the set $S$ of 6-tuples with elements 0 or 1, and the definitions of equality and dot product as provided, find the maximum size of a non-empty subset $T$ of $S$ such that for all distinct elements $u, v$ in $T$, the dot product $u \\cdot v$ is not equal to 0. Express your answer as a single integer representing the maximum subset size.",
+    "expected_answer": "32",
+    "solve_rate": 0.234375
+  },
+  {
+    "problem_id": "fresh_242",
+    "problem": "Find the imaginary part of the complex number $\\dfrac {2+i}{1-i}- \\dfrac {2-i}{1+i}$. Express your answer as a single number without the imaginary unit (i).",
+    "expected_answer": "3",
+    "solve_rate": 0.546875
+  },
+  {
+    "problem_id": "fresh_243",
+    "problem": "Given that the function $f(x)$ is an even function on $\\mathbb{R}$, $g(x)$ is an odd function on $\\mathbb{R}$, and $g(x)=f(x-1)$. If $f(2)=2$, calculate the value of $f(2014)$. Express your answer as a single number.",
+    "expected_answer": "2",
+    "solve_rate": 0.3125
+  },
+  {
+    "problem_id": "fresh_244",
+    "problem": "Let $A=\\{-2,-1,0,1,2\\}$, $B=\\{x|0\\leqslant x \\lt \\frac{5}{2}\\}$. Find the intersection of sets A and B, denoted as $A \\cap B$. Express your answer as a set, enclosing the elements in curly brackets {} and separating them with commas.",
+    "expected_answer": "\\{0,1,2\\}",
+    "solve_rate": 0.359375
+  },
+  {
+    "problem_id": "fresh_245",
+    "problem": "Find the range of values for $x$ such that the fraction $\\frac{1}{{2x-1}}$ is meaningful. Express your answer as an inequality or a statement about $x$.",
+    "expected_answer": "x \\neq \\frac{1}{2}",
+    "solve_rate": 0.34375
+  },
+  {
+    "problem_id": "fresh_246",
+    "problem": "Simplify the expression $(x + y)^{ - 1}(x^{ - 1} + y^{ - 1})$ and express it with negative exponents.",
+    "expected_answer": "x^{-1}y^{-1}",
+    "solve_rate": 0.53125
+  },
+  {
+    "problem_id": "fresh_247",
+    "problem": "In a Cartesian coordinate system, find the angle of inclination of the line $3x+\\sqrt{3}y-3=0$. Express your answer in radians.",
+    "expected_answer": "\\frac{2\\pi}{3}",
+    "solve_rate": 0.28125
+  },
+  {
+    "problem_id": "fresh_248",
+    "problem": "Given the following pseudo-code:\n```\na=3; \nb=-5; \nc=8; \na=b; \nb=c; \nc=a; \n```\nWhat is the output of the print statement `Print(“%d %d %d”, a, b, c)`? Express your answer as three integer values separated by commas.",
+    "expected_answer": "-5, 8, -5",
+    "solve_rate": 0.65625
+  },
+  {
+    "problem_id": "fresh_249",
+    "problem": "Translate the quadratic function y = x^2 + 3 by 2 units to the left and then by 2 units downwards. Express the transformed equation in the form y = f(x).",
+    "expected_answer": "y = (x + 2)^2 + 1",
+    "solve_rate": 0.25
+  },
+  {
+    "problem_id": "fresh_250",
+    "problem": "A rectangle is inscribed in a circle with a diameter of 4 units. Find the maximum possible area of the rectangle. Express your answer as a whole number.",
+    "expected_answer": "8",
+    "solve_rate": 0.640625
+  },
+  {
+    "problem_id": "fresh_251",
+    "problem": "Five students are standing in a row to take a photo. If two students, A and B, must stand next to each other, calculate the total number of different possible arrangements. Express your answer as a whole number.",
+    "expected_answer": "48",
+    "solve_rate": 0.671875
+  },
+  {
+    "problem_id": "fresh_252",
+    "problem": "Calculate the area enclosed by the curves y=e^x, y=e^-x, and the line x=1. Express your answer as a single value in the form \\boxed{[answer]}.",
+    "expected_answer": "e + \\frac{1}{e} - 2",
+    "solve_rate": 0.3125
+  },
+  {
+    "problem_id": "fresh_253",
+    "problem": "In the adjoining figure, $PQ$ is a diagonal of the cube. If $PQ$ has length $a$, then find the surface area of the cube. Express your answer in terms of $a^2$.",
+    "expected_answer": "2a^2",
+    "solve_rate": 0.546875
+  },
+  {
+    "problem_id": "fresh_254",
+    "problem": "Given $\\sin \\left( \\frac{\\pi}{2}+x\\right)= \\frac{3}{5} $, find the value of $\\cos 2x$. Express your answer as a fraction.",
+    "expected_answer": "-\\frac{7}{25}",
+    "solve_rate": 0.65625
+  },
+  {
+    "problem_id": "fresh_255",
+    "problem": "The polynomial (x+y)^9 is expanded in descending powers of x. When x=p and y=q, the second and third terms have equal values, where p and q are positive numbers and their sum is 1. Find the value of p. Express your answer as a fraction.",
+    "expected_answer": "\\frac{4}{5}",
+    "solve_rate": 0.375
+  },
+  {
+    "problem_id": "fresh_256",
+    "problem": "Four line segments a, b, c, d are in proportion, where a = 3cm, d = 4cm, c = 6cm. Find the value of b. Express your answer in centimeters (cm).",
+    "expected_answer": "2",
+    "solve_rate": 0.609375
+  },
+  {
+    "problem_id": "fresh_257",
+    "problem": "Translate the parabola y = 2x^2 one unit to the right and three units up. Express the resulting parabola equation in the form y = a(x-h)^2 + k.",
+    "expected_answer": "y = 2(x-1)^2 + 3",
+    "solve_rate": 0.65625
+  },
+  {
+    "problem_id": "fresh_258",
+    "problem": "In the Cartesian coordinate system xOy, find the area of the region enclosed by the curve 2|x| + 3|y| = 5. Express your answer as a simplified fraction or decimal.",
+    "expected_answer": "\\frac{25}{3}",
+    "solve_rate": 0.453125
+  },
+  {
+    "problem_id": "fresh_259",
+    "problem": "Given that the inequality $x^2 + ax + 1 \\geqslant 0$ holds for all $x \\in (0, \\frac{1}{2}]$, calculate the minimum value of $a$. Express your answer as a single number.",
+    "expected_answer": "-\\frac{5}{2}",
+    "solve_rate": 0.671875
+  },
+  {
+    "problem_id": "fresh_260",
+    "problem": "The total investment of the Xiangshan Port Sea-Crossing Bridge project is about 7.7 billion yuan. Express this number in scientific notation, including the unit (yuan).",
+    "expected_answer": "7.7 \\times 10^9",
+    "solve_rate": 0.4375
+  },
+  {
+    "problem_id": "fresh_261",
+    "problem": "Given that the function f(x-1) is an even function, and the graph of the function f(x) is symmetric about the point (1,0), when x is in [-1,1], f(x) = ax - 1. Calculate f(2022).",
+    "expected_answer": "-1",
+    "solve_rate": 0.234375
+  },
+  {
+    "problem_id": "fresh_262",
+    "problem": "Given that $\\tan (\\alpha - \\frac{\\pi }{4}) = \\frac{1}{2}$, calculate the value of $\\frac{\\sin \\alpha + \\cos \\alpha }{\\sin \\alpha - \\cos \\alpha }$.",
+    "expected_answer": "2",
+    "solve_rate": 0.609375
+  },
+  {
+    "problem_id": "fresh_263",
+    "problem": "If $f(x)$ is an odd function on $\\mathbb{R}$ with a period of 5, and satisfies $f(1)=1$, $f(2)=2$, calculate $f(23)+f(-14)$. Express your answer as a single integer.",
+    "expected_answer": "-1",
+    "solve_rate": 0.28125
+  },
+  {
+    "problem_id": "fresh_264",
+    "problem": "The diameter of larger viruses ranges from 300 to 450nm. Given the conversion factor $1nm = 10^{-9}m$, express the diameter of a 450nm virus in scientific notation. Ensure the coefficient is between 1 and 10, and include units in your answer.",
+    "expected_answer": "4.5 \\times 10^{-7}m",
+    "solve_rate": 0.46875
+  },
+  {
+    "problem_id": "fresh_265",
+    "problem": "Given the function $y=\\sin x+\\cos x$, the horizontal coordinates of each point on its graph are shortened to $\\frac{1}{2}$ of their original length, resulting in the graph of $y=f(x)$. Calculate the smallest positive period of $y=f(x)$. Express your answer as a single value.",
+    "expected_answer": "\\pi",
+    "solve_rate": 0.28125
+  },
+  {
+    "problem_id": "fresh_266",
+    "problem": "Define the sets M and N as follows:\nM = {u | u = 12m + 8n + 4l, m, n, l in Z}\nN = {u | u = 20p + 16q + 12r, p, q, r in Z}\nDescribe the relationship between sets M and N using standard set notation and terminology.",
+    "expected_answer": "M = N",
+    "solve_rate": 0.296875
+  },
+  {
+    "problem_id": "fresh_267",
+    "problem": "Given a sequence $\\{a_n\\}$ that satisfies $a_1=1$ and $a_n - a_{n-1} = 2$ (for $n \\geq 2$), find the general term $a_n$. Express your answer as a formula using $n$ to represent the term number.",
+    "expected_answer": "2n - 1",
+    "solve_rate": 0.484375
+  },
+  {
+    "problem_id": "fresh_268",
+    "problem": "A pair of dice is rolled twice, yielding points $m$ and $n$ respectively. Find the probability that the angle $θ$ between the vector $(m, n)$ and the vector $(-1, 1)$ is greater than $90^\\circ$. Express your answer as a simplified fraction.",
+    "expected_answer": "\\frac{5}{12}",
+    "solve_rate": 0.359375
+  },
+  {
+    "problem_id": "fresh_269",
+    "problem": "In a high school's senior year with 300 students numbered from 0, 1,..., 299, a sample of 60 students is to be drawn using systematic sampling. If the number drawn in the 60th segment is 298, calculate the number drawn in the 1st segment. Express your answer as a whole number.",
+    "expected_answer": "3",
+    "solve_rate": 0.453125
+  },
+  {
+    "problem_id": "fresh_270",
+    "problem": "The sequence $\\{a_n\\}$ satisfies $a_{n+1}= \\frac {1}{1-a_{n}}$, and $a_{1}=2$. Calculate the value of $a_{2016}$. Express your answer as a single value.",
+    "expected_answer": "\\frac{1}{2}",
+    "solve_rate": 0.359375
+  },
+  {
+    "problem_id": "fresh_271",
+    "problem": "Given tan θ = 2, calculate the value of sin^2 θ + sin θ cos θ - 2 cos^2 θ. Express your answer as a single numerical value.",
+    "expected_answer": "\\frac{4}{5}",
+    "solve_rate": 0.5625
+  },
+  {
+    "problem_id": "fresh_272",
+    "problem": "Given vectors $\\overrightarrow{a}=(\\sqrt{3}, 1)$, $\\overrightarrow{b}=(0, 1)$, $\\overrightarrow{c}=(-\\sqrt{3}, t)$. If $\\overrightarrow{a} + 2\\overrightarrow{b}$ is perpendicular to $\\overrightarrow{c}$, find the value of the real number $t$.",
+    "expected_answer": "1",
+    "solve_rate": 0.6875
+  },
+  {
+    "problem_id": "fresh_273",
+    "problem": "Given an arithmetic sequence {a_n} with the sum of the first n terms as S_n, if a_6 + a_9 = a_3 + 4, calculate the exact value of S_23.",
+    "expected_answer": "92",
+    "solve_rate": 0.546875
+  },
+  {
+    "problem_id": "fresh_274",
+    "problem": "Find the third term in the expansion of the binomial ${(2x-\\frac{1}{{x}^{3}})}^{5}$ using the general term formula. Express your answer as a simplified expression, including any necessary variables and their powers.",
+    "expected_answer": "\\frac{80}{{x}^{3}}",
+    "solve_rate": 0.546875
+  },
+  {
+    "problem_id": "fresh_275",
+    "problem": "Let $A=\\{x||x| \\lt 2\\}$, $B=\\{x|x^{2}-3x \\lt 0\\}$. Calculate the union of sets $A$ and $B$, and express your answer in interval notation.",
+    "expected_answer": "(-2,3)",
+    "solve_rate": 0.53125
+  },
+  {
+    "problem_id": "fresh_276",
+    "problem": "Given the function $f(x)= \\begin{cases} \\ln \\frac {1}{x}, & x > 0 \\\\ \\frac {1}{x}, & x < 0\\end{cases}$, find the solution set for the inequality $f(x) > -1$. Express your answer as an interval or union of intervals, using interval notation.",
+    "expected_answer": "(-\\infty,-1)\\cup(0,e)",
+    "solve_rate": 0.296875
+  },
+  {
+    "problem_id": "fresh_277",
+    "problem": "Given vectors $\\overrightarrow{a}$ and $\\overrightarrow{b}$ that satisfy $\\left|\\overrightarrow{a}+\\overrightarrow{b}\\right|=\\sqrt{10}$ and $\\left|\\overrightarrow{a}-\\overrightarrow{b}\\right|=\\sqrt{6}$, find the value of $\\overrightarrow{a} \\cdot \\overrightarrow{b}$. Express your answer as a single numerical value.",
+    "expected_answer": "1",
+    "solve_rate": 0.65625
+  },
+  {
+    "problem_id": "fresh_278",
+    "problem": "Given that the complex number $z$ satisfies $iz = 2 + 4i$, find the coordinates of the point corresponding to $z$ in the complex plane. Express your answer as an ordered pair (x, y), where x and y are integers.",
+    "expected_answer": "(4, -2)",
+    "solve_rate": 0.640625
+  },
+  {
+    "problem_id": "fresh_279",
+    "problem": "For any n lines in space (n≥2), if there exists a plane α such that the angles formed by these n lines with plane α are all equal, find the maximum value of n. Express your answer as a whole number.",
+    "expected_answer": "3",
+    "solve_rate": 0.578125
+  },
+  {
+    "problem_id": "fresh_280",
+    "problem": "Find the real part of the complex number $$\\frac {i+5}{1+i}$$, where $i$ is the imaginary unit. Express your answer as a single number.",
+    "expected_answer": "3",
+    "solve_rate": 0.578125
+  },
+  {
+    "problem_id": "fresh_281",
+    "problem": "In a triangle, two sides have lengths of $3$ and $8$ respectively. If the length of the third side is an even number, find the length of the third side that cannot be a valid option for the triangle. Express your answer as a single even number.",
+    "expected_answer": "12",
+    "solve_rate": 0.203125
+  },
+  {
+    "problem_id": "fresh_282",
+    "problem": "Given that \\( A B : B C = 1 : 2 \\) and \\( B C : C D = 8 : 5 \\), calculate the ratio \\( A B : B D \\). Express your answer as a ratio, including both parts of the ratio.",
+    "expected_answer": "4 : 13",
+    "solve_rate": 0.265625
+  },
+  {
+    "problem_id": "fresh_283",
+    "problem": "Let $a \\in \\mathbb{Z}$, and $0 \\leq a \\leq 13$. If $51^{2012} + a$ is divisible by 13, calculate the exact value of $a$. Express your answer as a single integer.",
+    "expected_answer": "12",
+    "solve_rate": 0.390625
+  },
+  {
+    "problem_id": "fresh_284",
+    "problem": "Given that the functions $f(x)$ and $g(x)$ are both odd functions on $\\mathbb{R}$, and $F(x) = f(x) + 3g(x) + 5$. If $F(a) = b$, find $F(-a)$ in terms of $b$.",
+    "expected_answer": "10 - b",
+    "solve_rate": 0.28125
+  },
+  {
+    "problem_id": "fresh_285",
+    "problem": "A and B independently solve a math competition problem. It is known that the probability of A solving the problem alone is 0.6, and the probability of the problem being solved by either A or B is 0.92. Find the probability of B solving the problem alone. Express your answer as a decimal value between 0 and 1.",
+    "expected_answer": "0.8",
+    "solve_rate": 0.640625
+  },
+  {
+    "problem_id": "fresh_286",
+    "problem": "In an opaque bag, there are 3 red balls, 5 white balls, and some black balls. They are identical except for their colors. After multiple experiments of drawing balls, it was found that the frequency of drawing white balls stabilized around 25%. Find the possible number of black balls in the bag. Express your answer as a whole number.",
+    "expected_answer": "12",
+    "solve_rate": 0.6875
+  },
+  {
+    "problem_id": "fresh_287",
+    "problem": "Find the equation of the asymptote for the hyperbola $\\frac{x^2}{4}-y^2=1$. Express your answer in the form $y = mx$, including the $\\pm$ symbol if necessary.",
+    "expected_answer": "y=\\pm \\frac{1}{2}x",
+    "solve_rate": 0.578125
+  },
+  {
+    "problem_id": "fresh_288",
+    "problem": "Glenda, Helga, Ioana, Julia, Karl, and Liu participated in the 2017 Canadian Team Mathematics Contest. On their team uniforms, each had a different number chosen from the list 11, 12, 13, 14, 15, 16. Helga's and Julia's numbers were even. Karl's and Liu's numbers were prime numbers. Glenda's number was a perfect square. What is Ioana's number? Express your answer as a single integer.",
+    "expected_answer": "15",
+    "solve_rate": 0.5625
+  },
+  {
+    "problem_id": "fresh_289",
+    "problem": "The graph of the quadratic function y = x^2 is shifted 3 units to the right and 2 units down. What is the expression of the new graph? Express your answer as a function of x.",
+    "expected_answer": "y = (x - 3)^2 - 2",
+    "solve_rate": 0.34375
+  },
+  {
+    "problem_id": "fresh_290",
+    "problem": "The random variable ξ takes on all possible values of 1, 2, 3, 4, 5, and P(ξ = k) = ak, (k=1,2,3,4,5). Find the value of a such that the sum of probabilities for all outcomes equals 1. Express your answer as a fraction.",
+    "expected_answer": "\\frac{1}{15}",
+    "solve_rate": 0.59375
+  },
+  {
+    "problem_id": "fresh_291",
+    "problem": "Solve for x in the equation x + 2 = 7. Express your answer as a single integer.",
+    "expected_answer": "x = 5",
+    "solve_rate": 0.546875
+  },
+  {
+    "problem_id": "fresh_292",
+    "problem": "Given the arithmetic sequence 24, 22, 20,..., find the maximum value of the sum of the first n terms, S_n. Express your answer as an integer.",
+    "expected_answer": "156",
+    "solve_rate": 0.546875
+  },
+  {
+    "problem_id": "fresh_293",
+    "problem": "Given the function y=x+ \\frac {9}{x-4} and the condition x > 4, find the minimum value of the function. Express your answer as a single numerical value.",
+    "expected_answer": "10",
+    "solve_rate": 0.609375
+  },
+  {
+    "problem_id": "fresh_294",
+    "problem": "Given the function y = (cos2x + sin2x) / (cos2x - sin2x), calculate its minimum positive period in radians. Express your answer using the π symbol.",
+    "expected_answer": "\\frac{\\pi}{2}",
+    "solve_rate": 0.359375
+  },
+  {
+    "problem_id": "fresh_295",
+    "problem": "Among the four functions y = 2^x, y = log_2 x, y = x^2, and y = cos 2x, how many satisfy the inequality f((x1 + x2)/2) > (f(x1) + f(x2))/2 for all 0 < x1 < x2 < 1? Express your answer as a single integer.",
+    "expected_answer": "1",
+    "solve_rate": 0.515625
+  },
+  {
+    "problem_id": "fresh_296",
+    "problem": "Given five line segments of lengths 3, 5, 7, 9, 11, find the maximum number of non-congruent triangles that can be formed using any three of these line segments as the sides. Express your answer as a single integer.",
+    "expected_answer": "7",
+    "solve_rate": 0.296875
+  },
+  {
+    "problem_id": "fresh_297",
+    "problem": "Given vectors $\\vec{a}$ and $\\vec{b}$ are not collinear, and real numbers $x$, $y$ satisfy $(3x-4y)\\vec{a}+(2x-3y)\\vec{b}=6\\vec{a}+3\\vec{b}$, find the value of $x-y$. Express your answer as a single integer.",
+    "expected_answer": "3",
+    "solve_rate": 0.609375
+  },
+  {
+    "problem_id": "fresh_298",
+    "problem": "Find the minimum value of the function f(x) = log2(x) in its domain. Express your answer as a single number.",
+    "expected_answer": "0",
+    "solve_rate": 0.5625
+  },
+  {
+    "problem_id": "fresh_299",
+    "problem": "If the sum of the monomial $2a^{5}b^{2m+4}$ and $a^{2n-3}b^{8}$ is still a monomial, find the values of $m$ and $n$. Express your answer as a pair of whole numbers (m, n).",
+    "expected_answer": "(2, 4)",
+    "solve_rate": 0.578125
+  },
+  {
+    "problem_id": "fresh_300",
+    "problem": "Distribute 4 different balls into 3 different boxes, where some boxes may be empty. Calculate the total number of methods to do this. Express your answer as a whole number.",
+    "expected_answer": "81",
+    "solve_rate": 0.296875
+  },
+  {
+    "problem_id": "fresh_301",
+    "problem": "The complex number $z$ corresponds to the point $(2,5)$ in the complex plane. Find the point corresponding to $1+z$ in the complex plane. Express your answer as an ordered pair $(x,y)$.",
+    "expected_answer": "(3,5)",
+    "solve_rate": 0.53125
+  },
+  {
+    "problem_id": "fresh_302",
+    "problem": "Given that circle C is symmetrical to the circle with the equation (x - 1)^2 + y^2 = 1 with respect to the line y = -x, find the equation of circle C. Express your answer in the standard form (x - h)^2 + (y - k)^2 = r^2.",
+    "expected_answer": "x^2 + (y + 1)^2 = 1",
+    "solve_rate": 0.203125
+  },
+  {
+    "problem_id": "fresh_303",
+    "problem": "Given the function y = (x^2 + a) / x, determine the probability that the function is monotonically increasing in the interval [2, +∞) for a ∈ [1, 6]. Express your answer as a simplified fraction.",
+    "expected_answer": "\\frac{3}{5}",
+    "solve_rate": 0.625
+  },
+  {
+    "problem_id": "fresh_304",
+    "problem": "Given the sequence $\\{a_n\\}$ satisfies $a_1=1, a_2=1, a_{n+1}=|a_n-a_{n-1}|(n\\geqslant 2)$, calculate the sum of the first $2017$ terms of this sequence. Express your answer as a single integer.",
+    "expected_answer": "1345",
+    "solve_rate": 0.234375
+  },
+  {
+    "problem_id": "fresh_305",
+    "problem": "Given that $\\sin\\alpha = \\frac{1}{3}$, calculate the value of $\\cos\\left(\\frac{\\pi}{4} + \\alpha\\right)\\cos\\left(\\frac{\\pi}{4} - \\alpha\\right)$. Express your answer as a simplified fraction.",
+    "expected_answer": "\\frac{7}{18}",
+    "solve_rate": 0.5625
+  },
+  {
+    "problem_id": "fresh_306",
+    "problem": "Given two points A(a, 3) and B(1, -2), if the slope angle of line AB is 135°, calculate the value of a using the slope formula and trigonometric relationship.",
+    "expected_answer": "-4",
+    "solve_rate": 0.640625
+  },
+  {
+    "problem_id": "fresh_307",
+    "problem": "Given complex numbers $z_{1}=1-2i$ and $z_{2}=1+bi$, if $\\overline{{z_1}•{z_2}}=7-i$, calculate the real number $b$. Express your answer as a single real number.",
+    "expected_answer": "3",
+    "solve_rate": 0.65625
+  },
+  {
+    "problem_id": "fresh_308",
+    "problem": "Given sets $A=\\{x\\in Z|x^{2}-2x-3 \\lt 0\\}$ and $B=\\{-2,-1,0,1\\}$, find the union $A\\cup B$. Express your answer as a set of integers.",
+    "expected_answer": "\\{-2, -1, 0, 1, 2\\}",
+    "solve_rate": 0.671875
+  },
+  {
+    "problem_id": "fresh_309",
+    "problem": "Given the complex number $z= \\\\frac{\\\\sqrt{3}+i}{(1- \\\\sqrt{3}i)^{2}}$, calculate the value of $z \\\\cdot \\\\bar{z}$, where $\\\\bar{z}$ is the conjugate of $z$. Express your answer as a single numerical value.",
+    "expected_answer": "\\\\frac{1}{4}",
+    "solve_rate": 0.21875
+  },
+  {
+    "problem_id": "fresh_310",
+    "problem": "The rectangle $\\mathrm{ABCD}$ represents a piece of land in the shape of a rectangle whose width is $\\frac{3}{5}$ of its length. The rectangle ABEF represents a garden in the shape of a rectangle whose width is also $\\frac{3}{5}$ of its length. Find the ratio of the area of the garden to the total area of the land. Express your answer as a percentage.",
+    "expected_answer": "36\\%",
+    "solve_rate": 0.34375
+  },
+  {
+    "problem_id": "fresh_311",
+    "problem": "In the Cartesian coordinate system, triangle ABC has vertices A(m, 1, 9), B(10, -1, 6), and C(2, 4, 3) and is an isosceles triangle. If m is an integer, find the value of m. Express your answer as a single integer.",
+    "expected_answer": "4",
+    "solve_rate": 0.6875
+  },
+  {
+    "problem_id": "fresh_312",
+    "problem": "A 12th-grade student wishes to apply for independent admission tests at 3 of 6 universities. However, since two of these universities have overlapping test schedules, the student cannot apply to both of these at the same time. Calculate the total number of different application methods available to the student.",
+    "expected_answer": "16",
+    "solve_rate": 0.25
+  },
+  {
+    "problem_id": "fresh_313",
+    "problem": "Given positive numbers a and b satisfying ab = 1, find the minimum value of a + 2b. Express your answer as a single value.",
+    "expected_answer": "2\\sqrt{2}",
+    "solve_rate": 0.546875
+  },
+  {
+    "problem_id": "fresh_314",
+    "problem": "Find the coordinates of the vertex of the parabola given by the equation $y=-\\left(x+1\\right)^{2}$. Express your answer as an ordered pair (x, y).",
+    "expected_answer": "(-1,0)",
+    "solve_rate": 0.453125
+  },
+  {
+    "problem_id": "fresh_315",
+    "problem": "Find a unit vector perpendicular to the vector $\\overrightarrow{a}=(1,- \\sqrt{3})$. Express your answer as an ordered pair (x, y) with exact values.",
+    "expected_answer": "\\left(\\dfrac{\\sqrt{3}}{2}, \\dfrac{1}{2}\\right)",
+    "solve_rate": 0.46875
+  },
+  {
+    "problem_id": "fresh_316",
+    "problem": "Given the equation $\\frac{z}{1-i} = i^{2016} + i^{2017}$, where $i$ is the imaginary unit, calculate the exact value of the complex number $z$. Express your answer in the form $a + bi$.",
+    "expected_answer": "2",
+    "solve_rate": 0.640625
+  },
+  {
+    "problem_id": "fresh_317",
+    "problem": "In the geometric sequence {a_n}, a_2 + a_4 = 20 and a_3 + a_5 = 40. Find the value of a_6. Express your answer as a numerical value.",
+    "expected_answer": "64",
+    "solve_rate": 0.5625
+  },
+  {
+    "problem_id": "fresh_318",
+    "problem": "Find the domain of the function f(x) = $$\\frac{\\ln(x+2)}{\\sqrt{1-3^x}}$$. Express your answer in interval notation.",
+    "expected_answer": "(-2, 0)",
+    "solve_rate": 0.3125
+  },
+  {
+    "problem_id": "fresh_319",
+    "problem": "Calculate the exact sum of \\(1 + 0.01 + 0.0001\\). Express your answer as a decimal number, including all significant digits.",
+    "expected_answer": "1.0101",
+    "solve_rate": 0.59375
+  },
+  {
+    "problem_id": "fresh_320",
+    "problem": "Given the point P(-1, -2+m) in the Cartesian coordinate system, find the range of m for which P is in the third quadrant. Express your answer as an inequality in terms of m.",
+    "expected_answer": "m < 2",
+    "solve_rate": 0.546875
+  },
+  {
+    "problem_id": "fresh_321",
+    "problem": "Given that the domain of the function $f(x)$ is $\\left[1,+\\infty \\right)$, determine the domain of the function $y=f(x-1)+f(4-x)$. Express your answer as an interval.",
+    "expected_answer": "\\left[2,3\\right]",
+    "solve_rate": 0.671875
+  },
+  {
+    "problem_id": "fresh_322",
+    "problem": "Jack and Jill exercise along the same route. Jill jogs the first half of the route at 6 km/h, runs the remainder of the route at 12 km/h, and takes a total time of x hours. Jack walks the first third of the route at 5 km/h, runs the remainder at 15 km/h, and takes a total time of y hours. Calculate the ratio of x to y. Express your answer as a simplified fraction.",
+    "expected_answer": "\\frac{9}{8}",
+    "solve_rate": 0.53125
+  },
+  {
+    "problem_id": "fresh_323",
+    "problem": "Given the function f(x) = x^2 + bx - 3, and f(-2) = f(0), find the solution set for f(x) ≤ 0. Express your answer as an interval, using square brackets or parentheses to indicate whether endpoints are included or excluded.",
+    "expected_answer": "[-3, 1]",
+    "solve_rate": 0.515625
+  },
+  {
+    "problem_id": "fresh_324",
+    "problem": "In the diagram, two circles overlap. The area of the overlapped region is \\(\\frac{3}{5}\\) of the area of the small circle and \\(\\frac{6}{25}\\) of the area of the large circle. Find the ratio of the area of the small circle to the area of the large circle. Express your answer as a ratio in the form a:b.",
+    "expected_answer": "2:5",
+    "solve_rate": 0.46875
+  },
+  {
+    "problem_id": "fresh_325",
+    "problem": "Calculate the area of a rectangular region with dimensions 0.4 meters and 0.22 meters. Express your answer in square meters (m^2) with appropriate decimal places.",
+    "expected_answer": "0.088",
+    "solve_rate": 0.375
+  },
+  {
+    "problem_id": "fresh_326",
+    "problem": "Given a rhombus with side length 5, one of its diagonals is not greater than 6, and another is not less than 6, what is the maximum value of the sum of the lengths of the two diagonals? Express your answer as a single number.",
+    "expected_answer": "14",
+    "solve_rate": 0.46875
+  },
+  {
+    "problem_id": "fresh_327",
+    "problem": "In the number \"20220420\", the frequency of the digit \"2\" is to be calculated. Find the frequency by dividing the total number of occurrences of the digit \"2\" by the total number of digits in the number. Express your answer as a simplified fraction.",
+    "expected_answer": "\\frac{1}{2}",
+    "solve_rate": 0.25
+  },
+  {
+    "problem_id": "fresh_328",
+    "problem": "Find the equation of the line that is symmetric to the line x - 2y + 3 = 0 with respect to the X-axis. Express your answer as a linear equation in the form Ax + By + C = 0.",
+    "expected_answer": "x + 2y + 3 = 0",
+    "solve_rate": 0.28125
+  },
+  {
+    "problem_id": "fresh_329",
+    "problem": "Given a complex number $z$ satisfying $$\\frac {1+i}{1-i} \\cdot z = 3+4i,$$ calculate the conjugate of $z$ in the form $a+bi$, where $a$ and $b$ are real numbers.",
+    "expected_answer": "4+3i",
+    "solve_rate": 0.4375
+  },
+  {
+    "problem_id": "fresh_330",
+    "problem": "The sequence {a_n} satisfies a_{n+1}(1-a_n) = 1, and a_8 = 2. Find the value of a_1. Express your answer as a single fraction or decimal value.",
+    "expected_answer": "\\frac{1}{2}",
+    "solve_rate": 0.203125
+  },
+  {
+    "problem_id": "fresh_331",
+    "problem": "Given vectors $a=(1,-2)$ and $b=(m,4)$, where $a$ is parallel to $b$, find the result of the operation $2a-b$. Express your answer as a vector in the form $(x, y)$.",
+    "expected_answer": "(4,-8)",
+    "solve_rate": 0.28125
+  },
+  {
+    "problem_id": "fresh_332",
+    "problem": "Given the digits 1, 2, 3, and 4, with the possibility of repeated digits, a \"good number\" is defined as a four-digit number with 1 in the unit's place and exactly three identical digits. Calculate the total number of such \"good numbers\".",
+    "expected_answer": "12",
+    "solve_rate": 0.25
+  },
+  {
+    "problem_id": "fresh_333",
+    "problem": "Given that $\\sqrt{102.01}=10.1$, find the value of $\\sqrt{1.0201}$. Express your answer as a decimal number.",
+    "expected_answer": "1.01",
+    "solve_rate": 0.4375
+  },
+  {
+    "problem_id": "fresh_334",
+    "problem": "Insert three numbers $a$, $b$, $c$ sequentially between 1 and 256 so that 1, $a$, $b$, $c$, 256 form a geometric sequence. Find the product of these five numbers. Express your answer as a power of 2 in the form $\\boxed{2^n}$.",
+    "expected_answer": "2^{20}",
+    "solve_rate": 0.296875
+  },
+  {
+    "problem_id": "fresh_335",
+    "problem": "Given the universal set $U=\\left\\{ x\\in \\mathbb{Z} \\mid -3 < x < 3 \\right\\}$, $A=\\left\\{ 1,2 \\right\\}$, $B=\\{-2,-1,2\\}$, determine the value of $A\\bigcup (\\complement _{U}B)$. Express your answer as a set of integers, including all elements of the resulting set.",
+    "expected_answer": "\\{0,1,2\\}",
+    "solve_rate": 0.5625
+  },
+  {
+    "problem_id": "fresh_336",
+    "problem": "Given that the sum of the first n terms of the sequence {a_n} is S_n, and it is known that S_n = 3^(n+1), calculate the value of a_3 + a_4.",
+    "expected_answer": "216",
+    "solve_rate": 0.578125
+  },
+  {
+    "problem_id": "fresh_337",
+    "problem": "In a transaction, a store sells two types of goods, each priced at 960 yuan. If calculated based on cost, one type of goods makes a 20% profit, while the other incurs a 20% loss. Calculate the overall profit or loss in yuan.",
+    "expected_answer": "-80",
+    "solve_rate": 0.328125
+  },
+  {
+    "problem_id": "fresh_338",
+    "problem": "In the sequence $ \\{a_n\\} $, where $ a_1=1 $ and $ a_{n+1}-a_n=2n $, find the value of $ a_{50} $. Express your answer as a single integer.",
+    "expected_answer": "2451",
+    "solve_rate": 0.46875
+  },
+  {
+    "problem_id": "fresh_339",
+    "problem": "A certain arithmetic sequence has a total of 10 terms. The sum of its odd-numbered terms is 15, and the sum of its even-numbered terms is 30. Determine the common difference of the sequence. Express your answer as a single numerical value.",
+    "expected_answer": "3",
+    "solve_rate": 0.609375
+  },
+  {
+    "problem_id": "fresh_340",
+    "problem": "Given the function f(x) = x^3 + a/x + bx - 3, and f(-2023) = 2023, calculate the value of f(2023). Express your answer as a single integer.",
+    "expected_answer": "-2029",
+    "solve_rate": 0.265625
+  },
+  {
+    "problem_id": "fresh_341",
+    "problem": "Given that $a$, $b$, $c \\geqslant 0$, and $a^{2}+b^{2}+c^{2}=3$, find the maximum value of $ab+bc+ca$. Express your answer as a single number in the form $\\boxed{[answer]}$.",
+    "expected_answer": "3",
+    "solve_rate": 0.234375
+  },
+  {
+    "problem_id": "fresh_342",
+    "problem": "Given the quadratic function y = ax^2 + bx + c, where a, b, c belong to the set {0, 2, 4, 6, 8} and a cannot be zero, calculate the total number of different quadratic functions. Express your answer as a whole number.",
+    "expected_answer": "100",
+    "solve_rate": 0.625
+  },
+  {
+    "problem_id": "fresh_343",
+    "problem": "Determine the number of proper subsets of the set \\\\(\\\\{x \\mid 0 < |x-1| < 3, x \\in \\mathbb{Z}\\\\}\\\\). Express your answer as a whole number.",
+    "expected_answer": "15",
+    "solve_rate": 0.5
+  },
+  {
+    "problem_id": "fresh_344",
+    "problem": "In the diagram, the circle is divided into equal regions. Calculate the fraction of the circle that is shaded. Express your answer as a simplified fraction.",
+    "expected_answer": "\\frac{1}{4}",
+    "solve_rate": 0.328125
+  },
+  {
+    "problem_id": "fresh_345",
+    "problem": "Given the function $f(\\\\frac{1}{x}) = \\\\frac{x}{1-x}$, find the expression for $f(x)$ when $x \\\\neq 0$ and $x \\\\neq 1$. Express your answer as a function of x.",
+    "expected_answer": "\\\\frac{1}{x-1}",
+    "solve_rate": 0.21875
+  },
+  {
+    "problem_id": "fresh_346",
+    "problem": "An archery target has 3 regions, each worth a different value if it is hit. Three archers shoot two arrows each and record scores as follows:\n\nFirst archer: 1 arrow in C and 1 arrow in A for a score of 15 points  \nSecond archer: 1 arrow in C and 1 arrow in B for a score of 18 points  \nThird archer: 1 arrow in B and 1 arrow in A for a score of 13 points\n\nIf a fourth archer shoots 2 arrows into ring B, calculate her total score.",
+    "expected_answer": "16",
+    "solve_rate": 0.6875
+  },
+  {
+    "problem_id": "fresh_347",
+    "problem": "Given vectors $\\overrightarrow{a}=(x, \\sqrt {3})$ and $\\overrightarrow{b}=(x,- \\sqrt {3})$, if $(2 \\overrightarrow{a}+ \\overrightarrow{b}) \\perp \\overrightarrow{b}$, find the magnitude of vector $\\overrightarrow{a}$. Express your answer as a single number.",
+    "expected_answer": "2",
+    "solve_rate": 0.6875
+  },
+  {
+    "problem_id": "fresh_348",
+    "problem": "Given the equation (1+i)x = 1+yi, where x and y are real numbers, calculate the modulus of x+yi. Express your answer as a numerical value, including the square root symbol if necessary.",
+    "expected_answer": "\\sqrt{2}",
+    "solve_rate": 0.3125
+  },
+  {
+    "problem_id": "fresh_349",
+    "problem": "Carbon-14 in a deceased organism decays exponentially, with a half-life of approximately 5730 years. When the amount of carbon-14 decreases to less than one thousandth of its original level, it can no longer be detected with a standard radiometric detector. Calculate the minimum number of half-lives that must have passed for the carbon-14 to be undetectable. Express your answer as a single integer.",
+    "expected_answer": "10",
+    "solve_rate": 0.53125
+  },
+  {
+    "problem_id": "fresh_350",
+    "problem": "A person has a probability of 0.6 to hit the target in a single shot. Calculate the probability that this person hits the target at least twice in three shots. Express your answer as a fraction.",
+    "expected_answer": "\\frac{81}{125}",
+    "solve_rate": 0.515625
+  },
+  {
+    "problem_id": "fresh_351",
+    "problem": "Given the imaginary unit $i$ and the equation $|{\\frac{{a+i}}{i}}|=2$, find the positive real number $a$. Express your answer as a positive real number.",
+    "expected_answer": "\\sqrt{3}",
+    "solve_rate": 0.484375
+  },
+  {
+    "problem_id": "fresh_352",
+    "problem": "Given the function $f(x)$ defined as:\n\n$f(x)=\\left\\{\\begin{array}{ll}\n\\ln({x}^{2}+a), & \\text{for } x < 0 \\\\\nf(x-2), & \\text{for } x \\geq 0\n\\end{array}\\right.$\n\nwith the condition that $f\\left(2023\\right)=1$, find the value of the positive number $a$. Express your answer as a single mathematical expression.",
+    "expected_answer": "e-1",
+    "solve_rate": 0.390625
+  },
+  {
+    "problem_id": "fresh_353",
+    "problem": "Tanis looked at her watch and noticed that, at that moment, it was \\(8x\\) minutes after 7:00 a.m. and \\(7x\\) minutes before 8:00 a.m. for some value of \\(x\\). Determine the exact time at that moment in the format HH:MM a.m.",
+    "expected_answer": "7:32 a.m.",
+    "solve_rate": 0.234375
+  },
+  {
+    "problem_id": "fresh_354",
+    "problem": "In triangle $ABC$, the sides opposite to angles $A$, $B$, and $C$ are denoted as $a$, $b$, and $c$ respectively. If $a$, $b$, and $c$ form a geometric sequence, and $c = 2a$, then find the value of $\\cos B$. Express your answer as a fraction or decimal.",
+    "expected_answer": "\\dfrac{3}{4}",
+    "solve_rate": 0.203125
+  },
+  {
+    "problem_id": "fresh_355",
+    "problem": "Given two vectors $\\vec{a}=(1,2)$ and $\\vec{b}=(x, 1)$, find the value of $x$ such that $(\\vec{a}+2\\vec{b})$ is parallel to $(2\\vec{a}-2\\vec{b})$. Express your answer as a single value.",
+    "expected_answer": "\\frac{1}{2}",
+    "solve_rate": 0.59375
+  },
+  {
+    "problem_id": "fresh_356",
+    "problem": "Joey and his five brothers are ages 3, 5, 7, 9, 11, and 13. One afternoon two of his brothers whose ages sum to 16 went to the movies, two brothers younger than 10 went to play baseball, and Joey and the 5-year-old stayed home. Determine Joey's age. Express your answer as a whole number.",
+    "expected_answer": "11",
+    "solve_rate": 0.21875
+  },
+  {
+    "problem_id": "fresh_357",
+    "problem": "For lines $l_1 : kx - y - 3 = 0$ and $l_2 : x + (2k + 3)y - 2 = 0$ to be perpendicular to each other, find the value of $k$. Express your answer as a single number.",
+    "expected_answer": "-3",
+    "solve_rate": 0.640625
+  },
+  {
+    "problem_id": "fresh_358",
+    "problem": "Given that the edge length of a cube is $\\frac {2 \\sqrt {3}}{3}$, find the surface area of its circumscribed sphere. Express your answer in terms of $\\pi$.",
+    "expected_answer": "4\\pi",
+    "solve_rate": 0.5625
+  },
+  {
+    "problem_id": "fresh_359",
+    "problem": "Given that $f(x)$ is an odd function, and when $x > 0$, $f(x)=2^{x-a}- \\frac {2}{x+1}$. If $f(-1)= \\frac {3}{4}$, find the value of $a$. Express your answer as a single integer.",
+    "expected_answer": "3",
+    "solve_rate": 0.453125
+  },
+  {
+    "problem_id": "fresh_360",
+    "problem": "Carly takes three steps to walk the same distance as Jim walks in four steps. Each of Carly's steps covers 0.5 meters. Calculate the distance Jim travels in 24 steps. Express your answer in meters.",
+    "expected_answer": "9",
+    "solve_rate": 0.6875
+  },
+  {
+    "problem_id": "fresh_361",
+    "problem": "Given two skew lines $a$ and $b$ that form an angle of $50^\\circ$, and a point $P$ in space, determine the number of lines passing through point $P$ that form an angle of $30^\\circ$ with both lines $a$ and $b$. Express your answer as a single integer.",
+    "expected_answer": "2",
+    "solve_rate": 0.421875
+  },
+  {
+    "problem_id": "fresh_362",
+    "problem": "Given a sequence {a_n} where a_1 = 3, a_2 = 6, and a_{n+2} = a_{n+1} - a_n, calculate the value of a_{2009}. Express your answer as a single integer, including a negative sign if applicable.",
+    "expected_answer": "-6",
+    "solve_rate": 0.671875
+  },
+  {
+    "problem_id": "fresh_363",
+    "problem": "Find the coefficient of the $x^{2}$ term in the expansion of $(2+x)(1-2x)^{5}$. Express your answer as a single numerical value.",
+    "expected_answer": "70",
+    "solve_rate": 0.3125
+  },
+  {
+    "problem_id": "fresh_364",
+    "problem": "Find the equation of the directrix of the parabola $x^{2}=2y$. Express your answer as an equation of a line in the form $y = c$.",
+    "expected_answer": "y=- \\dfrac {1}{2}",
+    "solve_rate": 0.59375
+  },
+  {
+    "problem_id": "fresh_365",
+    "problem": "If $b$ men take $c$ days to lay $f$ bricks, then how many days will it take $c$ men working at the same rate to lay $b$ bricks? Express your answer as a formula in terms of $b$ and $f$.",
+    "expected_answer": "\\frac{b^2}{f}",
+    "solve_rate": 0.453125
+  },
+  {
+    "problem_id": "fresh_366",
+    "problem": "Let S_n be the sum of the first n terms of the arithmetic sequence {a_n}, with a_4 = 4 and S_5 = 15. If the sum of the first m terms of the sequence {1/(a_n*a_(n+1))} is 10/11, find the value of m. Express your answer as an integer.",
+    "expected_answer": "10",
+    "solve_rate": 0.28125
+  },
+  {
+    "problem_id": "fresh_367",
+    "problem": "Given that tan θ = 2, find the value of (1 - sin 2θ) / (2cos^2 θ). Express your answer as a simplified fraction.",
+    "expected_answer": "\\frac{1}{2}",
+    "solve_rate": 0.359375
+  },
+  {
+    "problem_id": "fresh_368",
+    "problem": "Ali is arranging the books on his bookshelves. He puts half his books on the bottom shelf and two-thirds of what remains on the second shelf. Finally, he splits the rest of his books over the other two shelves so that the third shelf contains four more books than the top shelf. There are three books on the top shelf. Determine the number of books on the bottom shelf. Provide your answer as a whole number.",
+    "expected_answer": "30",
+    "solve_rate": 0.625
+  },
+  {
+    "problem_id": "fresh_369",
+    "problem": "Solve for x in the equation 1/(x-1) = 2/(x-2). Express your answer as a single value or a list of values.",
+    "expected_answer": "0",
+    "solve_rate": 0.40625
+  },
+  {
+    "problem_id": "fresh_370",
+    "problem": "A school cafeteria surveys students' preferences for three types of zongzi to determine the final procurement plan. What statistical measure should the cafeteria use to identify the most preferred type of zongzi among the students? Provide your answer as the name of the statistical measure.",
+    "expected_answer": "Mode",
+    "solve_rate": 0.5
+  },
+  {
+    "problem_id": "fresh_371",
+    "problem": "Given the equation $(a+i)i = b+i$, where $a, b \\in \\mathbb{R}$ and $i$ is the imaginary unit, solve for the values of $a$ and $b$. Express your answer in the format $a=$value, $b=$value.",
+    "expected_answer": "a=1, b=-1",
+    "solve_rate": 0.390625
+  },
+  {
+    "problem_id": "fresh_372",
+    "problem": "Given the function f(x+1) = 3x + 2, find the expression for f(x). Express your answer in the form f(x) =...",
+    "expected_answer": "f(x) = 3x - 1",
+    "solve_rate": 0.640625
+  },
+  {
+    "problem_id": "fresh_373",
+    "problem": "Given the ellipse $\\frac{x^{2}}{16} + \\frac{y^{2}}{3} = 1$ with foci $F\\_1$ and $F\\_2$, find the maximum value of $|PF\\_1| \\cdot |PF\\_2|$ for a point $P$ on the ellipse. Express your answer as a numerical value in the form $\\boxed{[answer]}$.",
+    "expected_answer": "16",
+    "solve_rate": 0.359375
+  },
+  {
+    "problem_id": "fresh_374",
+    "problem": "Find the minimum value of the function y = x^2 - 2px + 2p^2 + 2p - 1. Express your answer as a single integer.",
+    "expected_answer": "-2",
+    "solve_rate": 0.359375
+  },
+  {
+    "problem_id": "fresh_375",
+    "problem": "Given the operations Ä and Å defined as: (a,b) Ä (c,d) = (ac+bd, bc-ad) and (a,b) Å (c,d) = (a + c, b + d), and the equation (3,4) Ä (x, y) = (11, -2), calculate the value of (3,4) Å (x, y). Express your answer as a pair of real numbers (a, b).",
+    "expected_answer": "(4,6)",
+    "solve_rate": 0.53125
+  },
+  {
+    "problem_id": "fresh_376",
+    "problem": "Let f(x) be an odd function. When x > 0, f(x) = x^2 - 2. Calculate f(f(1)). Express your answer as a single number.",
+    "expected_answer": "1",
+    "solve_rate": 0.5
+  },
+  {
+    "problem_id": "fresh_377",
+    "problem": "Given that $f(x) = x^{3} + 3ax^{2} + bx + a^{2}$ has an extremum of $0$ at $x = -1$, calculate the value of $a - b$. Express your answer as a single numerical value.",
+    "expected_answer": "-7",
+    "solve_rate": 0.234375
+  },
+  {
+    "problem_id": "fresh_378",
+    "problem": "A point is randomly selected within a square with side length $4$. Calculate the probability that the distance from this point to all four sides of the square is greater than $1$. Express your answer as a simplified fraction.",
+    "expected_answer": "\\dfrac{1}{4}",
+    "solve_rate": 0.5
+  },
+  {
+    "problem_id": "fresh_379",
+    "problem": "Given that the sum of the first $n$ terms of an arithmetic sequence ${a_n}$ is $S_n$, if $S_3=9$, $S_6=27$, calculate the value of $S_9$. Express your answer as a single integer.",
+    "expected_answer": "54",
+    "solve_rate": 0.4375
+  },
+  {
+    "problem_id": "fresh_380",
+    "problem": "A paper strip has 9 consecutive sections that can be colored either red or white. If no two consecutive sections can be white, how many valid colorings are possible? Express your answer as a single integer.",
+    "expected_answer": "89",
+    "solve_rate": 0.34375
+  },
+  {
+    "problem_id": "fresh_381",
+    "problem": "A store had a sale on T-shirts. For every two T-shirts purchased at the regular price, a third T-shirt was bought for $1.00. Twelve T-shirts were bought for $120.00. Find the regular price for one T-shirt. Express your answer in dollars and cents.",
+    "expected_answer": "14.50",
+    "solve_rate": 0.359375
+  },
+  {
+    "problem_id": "fresh_382",
+    "problem": "Given an arithmetic sequence {a_n} with the sum of its first n terms denoted as S_n, if a_6 / a_3 = 2, find the value of S_6 / S_3. Express your answer as a simplified fraction.",
+    "expected_answer": "\\frac{7}{2}",
+    "solve_rate": 0.234375
+  },
+  {
+    "problem_id": "fresh_383",
+    "problem": "The integer 2023 is equal to 7 * 17^2. Calculate the smallest positive perfect square that is a multiple of 2023. Express your answer as a single integer and include the calculation process for clarity.",
+    "expected_answer": "14161",
+    "solve_rate": 0.375
+  },
+  {
+    "problem_id": "fresh_384",
+    "problem": "What is the minimum value of the expression (xy-1)^2 + (x+y)^2 for real numbers x and y? Express your answer as a single number.",
+    "expected_answer": "1",
+    "solve_rate": 0.453125
+  },
+  {
+    "problem_id": "fresh_385",
+    "problem": "Point $P(2,-5)$ is symmetric with respect to the $x$-axis. Find the coordinates of this symmetric point. Express your answer as an ordered pair $(x, y)$.",
+    "expected_answer": "(2, 5)",
+    "solve_rate": 0.5625
+  },
+  {
+    "problem_id": "fresh_386",
+    "problem": "Given the parabola $x=\\frac{1}{2}y^2$ and a point $P$ on the parabola with a horizontal coordinate of $1$, find the distance from point $P$ to the focus $F$ of the parabola. Express your answer as a fraction or decimal.",
+    "expected_answer": "\\frac{3}{2}",
+    "solve_rate": 0.34375
+  },
+  {
+    "problem_id": "fresh_387",
+    "problem": "Given that $\\overrightarrow{a}$ and $\\overrightarrow{b}$ are mutually perpendicular unit vectors, and $\\overrightarrow{OA}=\\overrightarrow{a}-\\overrightarrow{b}$ and $\\overrightarrow{OB}=2\\overrightarrow{a}+\\overrightarrow{b}$, calculate the projection vector of $\\overrightarrow{OA}$ onto $\\overrightarrow{AB}$. Express your answer as a vector in terms of $\\overrightarrow{a}$ and $\\overrightarrow{b}$, including coefficients for both vectors.",
+    "expected_answer": "-\\frac{1}{5}\\overrightarrow{a} - \\frac{2}{5}\\overrightarrow{b}",
+    "solve_rate": 0.53125
+  },
+  {
+    "problem_id": "fresh_388",
+    "problem": "In the arithmetic sequence ${a_n}$, $a_2=4$ and $a_4+a_7=15$. Find the general term formula of the sequence ${a_n}$. Express your answer as a formula in terms of $n$.",
+    "expected_answer": "n+2",
+    "solve_rate": 0.234375
+  },
+  {
+    "problem_id": "fresh_389",
+    "problem": "In acute triangle $\\triangle ABC$, the sides opposite to angles $A$, $B$, and $C$ are $a$, $b$, and $c$ respectively. If $a = 2b$ and $\\sin B = \\frac{\\sqrt{3}}{4}$, calculate the measure of angle $A$ in radians.",
+    "expected_answer": "\\frac{\\pi}{3}",
+    "solve_rate": 0.453125
+  },
+  {
+    "problem_id": "fresh_390",
+    "problem": "Given that $\\min \\{\\sqrt{x},x^{2},x\\}=\\frac{1}{16}$, find the exact value of $x$ that satisfies this condition. Express your answer as a single fraction or decimal value.",
+    "expected_answer": "\\frac{1}{4}",
+    "solve_rate": 0.234375
+  },
+  {
+    "problem_id": "fresh_391",
+    "problem": "We can create landscapes by arranging side by side, in any order, the five frames in the picture. By changing the order of the frames once a day, for approximately how many months is it possible to avoid a landscape from repeating? Express your answer in months.",
+    "expected_answer": "4",
+    "solve_rate": 0.625
+  },
+  {
+    "problem_id": "fresh_392",
+    "problem": "Given the expressions y1 = 2^1.8, y2 = 8^0.48, and y3 = (1/2)^-1.5, determine the correct ordering of y1, y2, and y3 from greatest to least. Express your answer in the format yx > yy > yz, using the actual variable names (y1, y2, y3).",
+    "expected_answer": "y1 > y3 > y2",
+    "solve_rate": 0.265625
+  },
+  {
+    "problem_id": "fresh_393",
+    "problem": "In a geometric sequence where each term is positive, the product of the first and ninth terms is 10. Find the value of the fifth term, expressing your answer as a positive value.",
+    "expected_answer": "\\sqrt{10}",
+    "solve_rate": 0.625
+  },
+  {
+    "problem_id": "fresh_394",
+    "problem": "Given the list of numbers \\(7, 9, 10, 11, 18\\), determine which number is equal to the average (mean) of the other four numbers. Express your answer as the actual number from the list that fulfills this condition.",
+    "expected_answer": "11",
+    "solve_rate": 0.46875
+  },
+  {
+    "problem_id": "fresh_395",
+    "problem": "Given a sequence $\\{a_n\\}$ satisfying $a_1=1$, $a_2=1$, $a_{n+1}=|a_n-a_{n-1}|$ (for $n\\geq2$), find the sum of the first 2013 terms of this sequence. Express your answer as a single integer.",
+    "expected_answer": "1342",
+    "solve_rate": 0.203125
+  },
+  {
+    "problem_id": "fresh_396",
+    "problem": "Given \\(x > 0\\), \\(y > 0\\), and \\(x+2y+2xy=8\\), find the minimum value of \\(x+2y\\). Express your answer as a single number.",
+    "expected_answer": "4",
+    "solve_rate": 0.28125
+  },
+  {
+    "problem_id": "fresh_397",
+    "problem": "Given a point P(x, y) lies on the line passing through points A(3, 0) and B(1, 1), find the minimum value of $2^x + 4^y$. Express your answer as a numerical value.",
+    "expected_answer": "4 \\sqrt{2}",
+    "solve_rate": 0.234375
+  },
+  {
+    "problem_id": "fresh_398",
+    "problem": "Given that plane vectors \\overrightarrow{a} and \\overrightarrow{b} satisfy |\\overrightarrow{b}|=\\sqrt{2}, \\overrightarrow{a}\\cdot \\overrightarrow{b}=2, and |\\overrightarrow{a}+\\overrightarrow{b}|=\\sqrt{14}, find the size of the angle between \\overrightarrow{a} and \\overrightarrow{b} in radians. Express your answer as a fraction of \\pi if possible.",
+    "expected_answer": "\\frac{\\pi}{3}",
+    "solve_rate": 0.59375
+  },
+  {
+    "problem_id": "fresh_399",
+    "problem": "Given the hyperbola $\\frac{x^{2}}{a^{2}} - \\frac{y^{2}}{b^{2}} = 1$ $(a > 0,b > 0)$ with left and right foci denoted as $F_{1}$ and $F_{2}$ respectively, the circle with diameter $F_{1}F_{2}$ intersects with one asymptote of the hyperbola at the point $(3,4)$. Determine the equation of this hyperbola in the standard form $\\frac{x^{2}}{a^{2}} - \\frac{y^{2}}{b^{2}} = 1$.",
+    "expected_answer": "\\frac{x^{2}}{9} - \\frac{y^{2}}{16} = 1",
+    "solve_rate": 0.296875
+  },
+  {
+    "problem_id": "fresh_400",
+    "problem": "In the sequence $\\{a_n\\}$, $a_1=-2$, $a_{n+1}=a_n-2^{n}$. Calculate the value of $a_{2017}$. Express your answer as a single integer, including the negative sign if applicable.",
+    "expected_answer": "-2^{2017}",
+    "solve_rate": 0.25
+  },
+  {
+    "problem_id": "fresh_401",
+    "problem": "Given points $P_1(0,2)$ and $P_2(3,0)$, find the coordinates of a point $P$ on the line segment $P_1P_2$ such that $\\overrightarrow{P_1P} = 2\\overrightarrow{PP_2}$. Express your answer as an ordered pair $(x, y)$, including exact fractional values if necessary.",
+    "expected_answer": "(2, \\frac{2}{3})",
+    "solve_rate": 0.546875
+  },
+  {
+    "problem_id": "fresh_402",
+    "problem": "Given the point G(x, x-5) is in the third quadrant of the rectangular coordinate system, determine the range of x that satisfies this condition. Express your answer as an inequality.",
+    "expected_answer": "x < 0",
+    "solve_rate": 0.453125
+  },
+  {
+    "problem_id": "fresh_403",
+    "problem": "In the \"Fire Safety\" knowledge quiz selection, there are a total of 20 questions. For each question, answering correctly scores 10 points, while answering incorrectly or not answering deducts 5 points. To pass the selection, one must score no less than 80 points. What is the minimum number of questions that must be answered correctly to pass the selection? Express your answer as a whole number.",
+    "expected_answer": "12",
+    "solve_rate": 0.65625
+  },
+  {
+    "problem_id": "fresh_404",
+    "problem": "Simplify the expression $\\frac{a}{1-2a}+\\frac{a-1}{1-2a}$. Express your answer as a simplified algebraic expression or a numerical value if applicable.",
+    "expected_answer": "-1",
+    "solve_rate": 0.625
+  },
+  {
+    "problem_id": "fresh_405",
+    "problem": "In triangle \\( \\triangle ABC \\), \\( AB = 2\\sqrt{3} \\), \\( AC = 2 \\), and the height from \\( BC \\) is \\( \\sqrt{3} \\). Find the length of \\( BC \\). Express your answer as a whole number.",
+    "expected_answer": "4",
+    "solve_rate": 0.265625
+  },
+  {
+    "problem_id": "fresh_406",
+    "problem": "Given $\\cos(\\pi + \\alpha) = -\\frac{1}{3}$, find the value of $\\sin(\\frac{5\\pi}{2} - \\alpha)$. Express your answer as a fraction, including a negative sign if applicable.",
+    "expected_answer": "-\\frac{1}{3}",
+    "solve_rate": 0.21875
+  },
+  {
+    "problem_id": "fresh_407",
+    "problem": "Point P starts from (1,0) and moves counterclockwise along the unit circle for an arc length of 2π/3 to reach point Q. Determine the exact coordinates of point Q after the rotation. Express your answer as an ordered pair (x, y).",
+    "expected_answer": "\\left( -\\frac{1}{2},\\frac{\\sqrt{3}}{2} \\right)",
+    "solve_rate": 0.65625
+  },
+  {
+    "problem_id": "fresh_408",
+    "problem": "Calculate the value of the expression $\\cos ^{4} \\frac {π}{8}-\\sin ^{4} \\frac {π}{8}$. Express your answer as a single value, possibly involving radicals, and include any necessary simplifications.",
+    "expected_answer": "\\frac { \\sqrt {2}}{2}",
+    "solve_rate": 0.390625
+  },
+  {
+    "problem_id": "fresh_409",
+    "problem": "Given the equation $3m+2n=0$ and the condition $mn\\neq 0$, find the value of $\\frac{m}{n}-\\frac{n}{m}$. Express your answer as a simplified fraction.",
+    "expected_answer": "\\frac{5}{6}",
+    "solve_rate": 0.625
+  },
+  {
+    "problem_id": "fresh_410",
+    "problem": "Given that the angle between unit vector $\\overrightarrow{a}$ and unit vector $\\overrightarrow{b}$ is $120^{\\circ}$, calculate the magnitude of the vector $\\overrightarrow{a}-2\\overrightarrow{b}$. Express your answer as the magnitude of the resulting vector, including any necessary square roots.",
+    "expected_answer": "\\sqrt{7}",
+    "solve_rate": 0.59375
+  },
+  {
+    "problem_id": "fresh_411",
+    "problem": "Given that line $a$ is perpendicular to line $b$, and line $l$ passes through a fixed point $P$ in space, and forms an angle of $30^\\circ$ with line $a$ and $90^\\circ$ with line $b$, how many lines $l$ satisfy these conditions? Express your answer as a single integer.",
+    "expected_answer": "2",
+    "solve_rate": 0.46875
+  },
+  {
+    "problem_id": "fresh_412",
+    "problem": "In the arithmetic sequence {a_n}, a_1 + a_5 = 10 and a_2 + a_6 = 14. Find the sum of the first 9 terms of the sequence. Express your answer as a single integer.",
+    "expected_answer": "81",
+    "solve_rate": 0.453125
+  },
+  {
+    "problem_id": "fresh_413",
+    "problem": "Consider the hyperbola given by the equation $\\frac{x^2}{a^2} - \\frac{y^2}{b^2} = 1$ $(a > 0, b > 0)$. Let $F$ be its right focus. If a circle with radius $a$ is centered at point $F$ and is tangent to the asymptote of the hyperbola, calculate the eccentricity of the hyperbola. Express your answer as a single value.",
+    "expected_answer": "\\sqrt{2}",
+    "solve_rate": 0.25
+  },
+  {
+    "problem_id": "fresh_414",
+    "problem": "Given the hyperbola $\\frac{x^{2}}{a^{2}} - \\frac{y^{2}}{b^{2}} = 1 (a > 0, b > 0)$ with a real axis length of $2$ and an eccentricity of $\\sqrt{5}$, calculate the distance from one of its foci to one of its asymptotes. Express your answer as a single number.",
+    "expected_answer": "2",
+    "solve_rate": 0.390625
+  },
+  {
+    "problem_id": "fresh_415",
+    "problem": "In a community in Guangzhou, a stratified sampling survey was conducted to understand the residents' knowledge of garbage classification. It is known that there are 800 young people, 1600 middle-aged people, and 1400 elderly people in the community. If the number of elderly people sampled is 70, calculate the number of young people that should be sampled. Express your answer as a whole number.",
+    "expected_answer": "40",
+    "solve_rate": 0.609375
+  },
+  {
+    "problem_id": "fresh_416",
+    "problem": "Given the real numbers $x$ and $y$ that satisfy the equation $2^x + 2^y = 1$, find the maximum value of $x + y$. Express your answer as a single numerical value.",
+    "expected_answer": "-2",
+    "solve_rate": 0.421875
+  },
+  {
+    "problem_id": "fresh_417",
+    "problem": "Given that the interior angles of a triangle are \\((5x + 3y)^\\circ\\), \\((3x + 20)^\\circ\\), and \\((10y + 30)^\\circ\\), and knowing that the sum of the interior angles of a triangle is \\(180^\\circ\\), find the value of \\(x + y\\) where \\(x\\) and \\(y\\) are positive integers.",
+    "expected_answer": "15",
+    "solve_rate": 0.453125
+  },
+  {
+    "problem_id": "fresh_418",
+    "problem": "Let the domain of the function y=f(x) be R and satisfy y=f(x+2) is an odd function. Find the value of f(2).",
+    "expected_answer": "0",
+    "solve_rate": 0.59375
+  },
+  {
+    "problem_id": "fresh_419",
+    "problem": "Given that the complex number z = m^2 - 1 + (m + 1)i is purely imaginary, where m is a real number, find the value of 2/z. Express your answer as a complex number in its simplest form.",
+    "expected_answer": "-i",
+    "solve_rate": 0.59375
+  },
+  {
+    "problem_id": "fresh_420",
+    "problem": "Given $1 < a < 2$, calculate the exact value of the algebraic expression $|a-2|+|1-a|$.",
+    "expected_answer": "1",
+    "solve_rate": 0.5
+  },
+  {
+    "problem_id": "fresh_421",
+    "problem": "Find the maximum value of the function y = x/e^x on the interval [0, 2]. Express your answer as a single value.",
+    "expected_answer": "\\frac{1}{e}",
+    "solve_rate": 0.59375
+  },
+  {
+    "problem_id": "fresh_422",
+    "problem": "In the arithmetic sequence {a_n}, a_4 = 4 and a_3 + a_8 = 5. Find a_7. Express your answer as a single integer.",
+    "expected_answer": "1",
+    "solve_rate": 0.671875
+  },
+  {
+    "problem_id": "fresh_423",
+    "problem": "Given the function f(x) = 2x + 3, and g(x+2) = f(x), determine the expression for g(x). Express your answer as a function of x.",
+    "expected_answer": "g(x) = 2x - 1",
+    "solve_rate": 0.234375
+  },
+  {
+    "problem_id": "fresh_424",
+    "problem": "Divide the numbers 1, 2, 3, …, 19 into several groups, with at least one number in each group, so that in each group containing more than two numbers, the least common multiple (LCM) of any two numbers is not in the same group. What is the minimum number of groups required? Express your answer as a single integer.",
+    "expected_answer": "5",
+    "solve_rate": 0.265625
+  },
+  {
+    "problem_id": "fresh_425",
+    "problem": "Given vectors $a$ and $b$ that satisfy $|a|=|b|=2$, and $a\\cdot(b-a)=-2$, calculate $|2a-b|$. Express your answer as a simplified radical expression if necessary.",
+    "expected_answer": "2\\sqrt{3}",
+    "solve_rate": 0.421875
+  },
+  {
+    "problem_id": "fresh_426",
+    "problem": "Given the line $\\begin{cases} x=1-2t, \\\\ y=2+3t \\end{cases}$ (where $t$ is a parameter) is perpendicular to the line $4x+ky=1$, calculate the constant $k$. Express your answer as a single integer or fraction.",
+    "expected_answer": "-6",
+    "solve_rate": 0.296875
+  },
+  {
+    "problem_id": "fresh_427",
+    "problem": "Find the sum of the first 2005 terms of the sequence 1, 2, 3, 4, 1, 2, 3, 4,.... Express your answer as a whole number.",
+    "expected_answer": "5011",
+    "solve_rate": 0.34375
+  },
+  {
+    "problem_id": "fresh_428",
+    "problem": "Given that $a > 1$, find the minimum value of $$\\frac {a^{2}-a+1}{a-1}.$$ Express your answer as a whole number.",
+    "expected_answer": "3",
+    "solve_rate": 0.265625
+  },
+  {
+    "problem_id": "fresh_429",
+    "problem": "The weight of 1 pig is equal to the weight of 6 chickens; the weight of 3 chickens is equal to the weight of 4 ducks; the weight of 2 ducks is equal to the weight of 6 fish. Calculate how many fish the weight of 2 pigs is equal to. Express your answer as a whole number of fish.",
+    "expected_answer": "48",
+    "solve_rate": 0.484375
+  },
+  {
+    "problem_id": "fresh_430",
+    "problem": "Ellis's Eel Emporium contains a large tank holding three different types of eel: electric eels, moray eels, and freshwater eels. A notice on the tank reads as follows:\n- All the eels are electric eels except 12\n- All the eels are moray eels except 14\n- All the eels are freshwater eels except 16\n\nUsing this information, calculate the total number of eels in the tank. Express your answer as a whole number.",
+    "expected_answer": "21",
+    "solve_rate": 0.203125
+  },
+  {
+    "problem_id": "fresh_431",
+    "problem": "Given the plane region $\\Omega=\\{(x,y)|x > 0, y > 0, x+y < 2\\}$ and $A=\\{(x,y)|x < 1, y < 1, x+y > 1\\}$, find the probability that a point $P$ randomly placed within the region $\\Omega$ falls into region $A$. Express your answer as a simplified fraction.",
+    "expected_answer": "\\dfrac{1}{4}",
+    "solve_rate": 0.390625
+  },
+  {
+    "problem_id": "fresh_432",
+    "problem": "Given that $| \\overrightarrow{a}|=3$, $| \\overrightarrow{b}|=2$, and $| \\overrightarrow{a}- \\overrightarrow{b}|= \\sqrt {19}$, calculate the projection of $\\overrightarrow{a}$ on $\\overrightarrow{b}$. Express your answer as a fraction.",
+    "expected_answer": "- \\frac {3}{2}",
+    "solve_rate": 0.359375
+  },
+  {
+    "problem_id": "fresh_433",
+    "problem": "Given the function $f(x+1)= \\frac {2x+1}{x+1}$, find the slope of the tangent line to the curve $y=f(x)$ at the point $(1,f(1))$. Express your answer as a single numerical value.",
+    "expected_answer": "1",
+    "solve_rate": 0.28125
+  },
+  {
+    "problem_id": "fresh_434",
+    "problem": "Given the quadratic function f(x) = x^2 - 4x + 3, find the interval where the function is decreasing. Express your answer in the format (-∞, x) or (x, ∞).",
+    "expected_answer": "(-∞, 2)",
+    "solve_rate": 0.28125
+  },
+  {
+    "problem_id": "fresh_435",
+    "problem": "A line passes through point M(2, 4) and intersects the parabola y^2 = 8x at only one point. How many such lines exist? Express your answer as a whole number.",
+    "expected_answer": "2",
+    "solve_rate": 0.25
+  },
+  {
+    "problem_id": "fresh_436",
+    "problem": "If p(m, n) is a point on the terminal side of a 600° angle, calculate the value of n/m using the definition of trigonometric functions and reduction formulas. Express your answer as a single value.",
+    "expected_answer": "\\sqrt{3}",
+    "solve_rate": 0.46875
+  },
+  {
+    "problem_id": "fresh_437",
+    "problem": "Given a complex number $z = (3+2i)^2$ (where $i$ is the imaginary unit), identify the quadrant in which the point corresponding to the conjugate of $z$, denoted $\\bar{z}$, is located on the complex plane. Express your answer as the name of the quadrant.",
+    "expected_answer": "Fourth quadrant",
+    "solve_rate": 0.328125
+  },
+  {
+    "problem_id": "fresh_438",
+    "problem": "The highest temperature in Zunyi City on June 1, 2019 was $25^{\\circ}\\mathrm{C}$, and the lowest temperature was $15^{\\circ}\\mathrm{C}$. Find the difference between the highest and lowest temperatures. Express your answer in degrees Celsius ($^{\\circ}\\mathrm{C}$) as a whole number.",
+    "expected_answer": "10^{\\circ}\\mathrm{C}",
+    "solve_rate": 0.40625
+  },
+  {
+    "problem_id": "fresh_439",
+    "problem": "Given that the sum of two numbers is 6 and the absolute value of their difference is 8, form a quadratic equation with these two numbers as roots. Express your answer in the standard form ax^2 + bx + c = 0, where a, b, and c are integers.",
+    "expected_answer": "x^2 - 6x - 7 = 0",
+    "solve_rate": 0.6875
+  },
+  {
+    "problem_id": "fresh_440",
+    "problem": "If the line y = 2x + b is a tangent to the curve y = 2a ln(x), where a > 0, find the minimum value of the real number b.",
+    "expected_answer": "-2",
+    "solve_rate": 0.453125
+  },
+  {
+    "problem_id": "fresh_441",
+    "problem": "Given an arithmetic sequence {a_n} with a non-zero common difference d, and a_1 = 1, if a_1, a_3, a_13 form a geometric sequence, calculate the common difference d.",
+    "expected_answer": "2",
+    "solve_rate": 0.46875
+  },
+  {
+    "problem_id": "fresh_442",
+    "problem": "Given that line l passes through the point (0,3) and is perpendicular to the line x+y+1=0, find the equation of line l in the standard form Ax + By + C = 0.",
+    "expected_answer": "x - y + 3 = 0",
+    "solve_rate": 0.453125
+  },
+  {
+    "problem_id": "fresh_443",
+    "problem": "Danica wants to arrange her model cars in rows with exactly 6 cars in each row. She currently has 23 model cars. What is the greatest number of additional cars she must buy in order to be able to arrange all her cars this way? Express your answer as a whole number.",
+    "expected_answer": "1",
+    "solve_rate": 0.640625
+  },
+  {
+    "problem_id": "fresh_444",
+    "problem": "Given the plane vectors $\\overrightarrow{a}=(2,-1)$, $\\overrightarrow{b}=(1,1)$, $\\overrightarrow{c}=(-5,1)$, if $(\\overrightarrow{a}+k\\overrightarrow{b}) \\ / \\! / \\ \\overrightarrow{c}$, find the value of the real number $k$. Express your answer as a single real number.",
+    "expected_answer": "\\dfrac {1}{2}",
+    "solve_rate": 0.21875
+  },
+  {
+    "problem_id": "fresh_445",
+    "problem": "Determine the minimum number of 6 by 4 rectangular tiles needed to form a square without overlapping. Express your answer as a whole number.",
+    "expected_answer": "6",
+    "solve_rate": 0.53125
+  },
+  {
+    "problem_id": "fresh_446",
+    "problem": "Find the coefficient of $x^2$ in the expansion of $(1+2x)^5$. Use the general term formula of the binomial expansion to calculate this coefficient. Express your answer as a single number.",
+    "expected_answer": "40",
+    "solve_rate": 0.640625
+  },
+  {
+    "problem_id": "fresh_447",
+    "problem": "Simplify the expression: $\\frac{1}{1+\\frac{1}{2+\\frac{1}{3}}}$. Express your answer as a simplified fraction.",
+    "expected_answer": "\\frac{7}{10}",
+    "solve_rate": 0.609375
+  },
+  {
+    "problem_id": "fresh_448",
+    "problem": "Given the events $E_1$: \"miss the target\", $E_2$: \"hit the target\", $E_3$: \"the number of rings hit on the target is greater than 4\", and $E_4$: \"the number of rings hit on the target is not less than 5\", determine the number of pairs of events that are mutually exclusive but not complementary. Express your answer as a whole number.",
+    "expected_answer": "2",
+    "solve_rate": 0.375
+  },
+  {
+    "problem_id": "fresh_449",
+    "problem": "If the line $3x-4y-m=0$ ($m>0$) is tangent to the circle $(x-3)^2+(y-4)^2=4$, find the value of the real number $m$. Express your answer as a single positive real number.",
+    "expected_answer": "3",
+    "solve_rate": 0.28125
+  },
+  {
+    "problem_id": "fresh_450",
+    "problem": "Given that $f(x) = x^7 + ax^5 + bx - 5$, and $f(-3) = 5$, calculate the value of $f(3)$. Express your answer as a single integer in the form $\\boxed{[answer]}$.",
+    "expected_answer": "-15",
+    "solve_rate": 0.375
+  },
+  {
+    "problem_id": "fresh_451",
+    "problem": "A plane is divided by 5 lines. What is the maximum number of parts that the plane can be divided into? Express your answer as a whole number.",
+    "expected_answer": "16",
+    "solve_rate": 0.328125
+  },
+  {
+    "problem_id": "fresh_452",
+    "problem": "Determine the number of real roots of the cubic equation \\(x^{3} - \\sqrt{3} x^{2} + x - \\left(1 + \\frac{\\sqrt{3}}{9}\\right) = 0\\). Express your answer as a whole number.",
+    "expected_answer": "1",
+    "solve_rate": 0.515625
+  },
+  {
+    "problem_id": "fresh_453",
+    "problem": "Given the equations y = x^2 - 6 and y = m where -6 < m < 6, define L(m) as the x-coordinate of the left intersection point of these curves. Define r = (L(-m) - L(m)) / m. Calculate the value of r as m approaches 0. Express your answer as a single numerical value in the boxed notation.",
+    "expected_answer": "\\frac{1}{\\sqrt{6}}",
+    "solve_rate": 0.34375
+  },
+  {
+    "problem_id": "fresh_454",
+    "problem": "Given the function y = a^(x - 1) + 3 with conditions a > 0 and a!= 1, find a point (x, y) that must lie on the graph of the function. Express your answer as an ordered pair.",
+    "expected_answer": "(1, 4)",
+    "solve_rate": 0.203125
+  },
+  {
+    "problem_id": "fresh_455",
+    "problem": "In the positive geometric sequence $\\{a_n\\}$, $a_1=2$, and $a_1 \\cdot a_5 = 64$. Calculate the sum of the first $n$ terms of the sequence $\\{a_n\\}$ and express your answer as a formula in terms of $n$.",
+    "expected_answer": "2^{n+1} - 2",
+    "solve_rate": 0.640625
+  },
+  {
+    "problem_id": "fresh_456",
+    "problem": "Evaluate the expression: $(1+11+21+31+41)+(9+19+29+39+49)$. Provide your answer as a single integer.",
+    "expected_answer": "250",
+    "solve_rate": 0.609375
+  },
+  {
+    "problem_id": "fresh_457",
+    "problem": "A box contains $m$ red balls, $10$ white balls, and $n$ black balls. The probability of drawing a white ball is the same as the probability of not drawing a white ball. Express the relationship between $m$ and $n$ as an equation.",
+    "expected_answer": "m+n=10",
+    "solve_rate": 0.40625
+  },
+  {
+    "problem_id": "fresh_458",
+    "problem": "Let the set \\( A = \\left\\{ x \\mid x^{2} + x - 6 < 0, x \\in \\mathbf{Z} \\right\\} \\). Calculate the number of non-empty proper subsets of the set \\( A \\). Express your answer as a whole number.",
+    "expected_answer": "14",
+    "solve_rate": 0.5
+  },
+  {
+    "problem_id": "fresh_459",
+    "problem": "The area of a trapezoidal field is 1400 square yards, and its altitude is 50 yards. Find the number of possible pairs of bases if the number of yards in each base is an integer divisible by 8. Express your answer as a single integer.",
+    "expected_answer": "3",
+    "solve_rate": 0.203125
+  },
+  {
+    "problem_id": "fresh_460",
+    "problem": "For real numbers x, y, if |x - 1| ≤ 1 and |y - 2| ≤ 1, find the maximum value of |x - 2y + 1|. Express your answer as a single number.",
+    "expected_answer": "5",
+    "solve_rate": 0.28125
+  },
+  {
+    "problem_id": "fresh_461",
+    "problem": "Given the complex number $a+(a-1)i$ corresponds to a point in the first quadrant of the complex plane, determine the range of the real number $a$ that satisfies this condition. Express your answer as an inequality.",
+    "expected_answer": "a > 1",
+    "solve_rate": 0.546875
+  },
+  {
+    "problem_id": "fresh_462",
+    "problem": "Given that $y=f(x)$ is the inverse function of $y=\\log_a{x}$ (where $a>0$ and $a \\neq 1$), and $f(1)=2$, find the expression for $f(x)$ in terms of $x$. Express your answer as a function of $x$ using exponential notation.",
+    "expected_answer": "2^x",
+    "solve_rate": 0.3125
+  },
+  {
+    "problem_id": "fresh_463",
+    "problem": "Divide the Cartesian coordinate system into a 6 x 5 grid. Let points A(1,3), B(5,1), and C(4,4). Calculate the fraction of the area of this grid that is occupied by the area S1 of triangle ABC. Express your answer as a simplified fraction in the form of \\frac{numerator}{denominator}.",
+    "expected_answer": "\\frac{1}{6}",
+    "solve_rate": 0.53125
+  },
+  {
+    "problem_id": "fresh_464",
+    "problem": "Given $\\sin (\\pi-\\alpha)= \\frac {1}{3}$, and $\\frac {\\pi}{2}\\leqslant \\alpha\\leqslant \\pi$, calculate the value of $\\sin 2\\alpha$. Express your answer as a single fraction or decimal, including a negative sign if applicable.",
+    "expected_answer": "-\\frac{4\\sqrt{2}}{9}",
+    "solve_rate": 0.3125
+  },
+  {
+    "problem_id": "fresh_465",
+    "problem": "Given the set \\( A = \\{x \\in \\mathbf{Z} \\mid \\log_2 x \\leq 2\\} \\), find the number of proper subsets of \\( A \\). Express your answer as a whole number.",
+    "expected_answer": "15",
+    "solve_rate": 0.609375
+  },
+  {
+    "problem_id": "fresh_466",
+    "problem": "Given that the probability of a certain animal living to be 20 years old is 0.8, and the probability that it lives to be 25 years old is 0.5, find the probability that the animal, which is currently 20 years old, will live to be 25 years old. Express your answer as a decimal value, rounded to three decimal places if necessary.",
+    "expected_answer": "0.625",
+    "solve_rate": 0.53125
+  },
+  {
+    "problem_id": "fresh_467",
+    "problem": "Given $f(x)= \\frac{1}{2}x^{2}+2xf'(2014)+2014\\ln x$, find the value of $f'(2014)$. Express your answer as a single integer.",
+    "expected_answer": "-2015",
+    "solve_rate": 0.3125
+  },
+  {
+    "problem_id": "fresh_468",
+    "problem": "Let $f(x)=\\left\\{\\begin{array}{l}{-2x+2, x\\geq 0}\\\\{(\\frac{1}{3})^{x}+1, x<0}\\end{array}\\right.$. Find the range of real numbers $x$ that satisfy the inequality $f(x)+f(x+\\frac{1}{2}) \\gt 2$. Express your answer as an interval of real numbers.",
+    "expected_answer": "(-\\infty, \\frac{1}{4})",
+    "solve_rate": 0.21875
+  },
+  {
+    "problem_id": "fresh_469",
+    "problem": "Given an arithmetic sequence {a_n} with the sum of the first n terms denoted as S_n, and given that a_2 + a_6 + a_7 = 18, find the value of S_9. Express your answer as a single numerical value.",
+    "expected_answer": "54",
+    "solve_rate": 0.65625
+  },
+  {
+    "problem_id": "fresh_470",
+    "problem": "The graph of the linear function y = -2x + 3 is moved up by 2 units. Find the coordinates of the point where the new function intersects the y-axis. Express your answer as an ordered pair (x, y).",
+    "expected_answer": "(0, 5)",
+    "solve_rate": 0.640625
+  },
+  {
+    "problem_id": "fresh_471",
+    "problem": "If vector $\\overrightarrow{a}=(2,3)$ and vector $\\overrightarrow{b}=(-1,2)$, then calculate the coordinates of $\\overrightarrow{a} + \\overrightarrow{b}$. Express your answer as an ordered pair (x, y).",
+    "expected_answer": "(1, 5)",
+    "solve_rate": 0.546875
+  },
+  {
+    "problem_id": "fresh_472",
+    "problem": "Given a sequence of 10 terms, where each term is either 1 or -1, how many different possible values can the sum of the sequence take? Express your answer as a whole number.",
+    "expected_answer": "11",
+    "solve_rate": 0.421875
+  },
+  {
+    "problem_id": "fresh_473",
+    "problem": "Given $3^a = 4$, express $\\log_2{3}$ in terms of $a$. Provide your answer as a fraction.",
+    "expected_answer": "\\frac{2}{a}",
+    "solve_rate": 0.546875
+  },
+  {
+    "problem_id": "fresh_474",
+    "problem": "Randomly select a real number k in the interval [-3,3]. Find the probability that the line y=kx intersects with the circle (x-2)^2+y^2=1. Express your answer as a fraction or decimal.",
+    "expected_answer": "\\dfrac{\\sqrt{3}}{9}",
+    "solve_rate": 0.46875
+  },
+  {
+    "problem_id": "fresh_475",
+    "problem": "Given $a, b \\in \\mathbb{R}$, and $i$ is the imaginary unit. If $a - i$ and $2 + bi$ are conjugate complex numbers, then find the value of $(a + bi)^2$. Express your answer as a complex number in the form $a + bi$.",
+    "expected_answer": "3 + 4i",
+    "solve_rate": 0.28125
+  },
+  {
+    "problem_id": "fresh_476",
+    "problem": "Putting 3 different balls into 4 boxes numbered 1, 2, 3, and 4, how many different ways are there to do so? Express your answer as a single integer.",
+    "expected_answer": "64",
+    "solve_rate": 0.328125
+  },
+  {
+    "problem_id": "fresh_477",
+    "problem": "Given a complex number $z$ that satisfies $i\\cdot z=z+a\\cdot i$ (where $i$ is the imaginary unit) and $|z|=\\sqrt {2}$, find the value of the positive number $a$. Express your answer as a single number.",
+    "expected_answer": "2",
+    "solve_rate": 0.265625
+  },
+  {
+    "problem_id": "fresh_478",
+    "problem": "Given vectors $\\overrightarrow{a} = (1, 2)$ and $\\overrightarrow{b} = (-3, 2)$, find the value of the real number $k$ such that $(k\\overrightarrow{a} + \\overrightarrow{b})$ is parallel to $(\\overrightarrow{a} - 3\\overrightarrow{b})$. Express your answer as a fraction or decimal.",
+    "expected_answer": "-\\frac{1}{3}",
+    "solve_rate": 0.296875
+  },
+  {
+    "problem_id": "fresh_479",
+    "problem": "In $\\triangle ABC$, given that $b^2+c^2-a^2=\\sqrt {3}bc$, use the cosine theorem to find the measure of angle A. Express your answer in degrees as a numerical value.",
+    "expected_answer": "30",
+    "solve_rate": 0.390625
+  },
+  {
+    "problem_id": "fresh_480",
+    "problem": "Find the coefficient of the constant term in the expansion of ${\\left( {{x}^{3}}+{\\frac{1}{{{x}^{2}}}} \\right)}^{5}$. Express your answer as a single integer.",
+    "expected_answer": "10",
+    "solve_rate": 0.671875
+  },
+  {
+    "problem_id": "fresh_481",
+    "problem": "Given $\\frac{{3\\sin\\alpha+2\\cos\\alpha}}{{2\\sin\\alpha-\\cos\\alpha}}=\\frac{8}{3}$, calculate the value of $\\tan\\left(\\alpha+\\frac{\\pi}{4}\\right)$. Express your answer as a single number.",
+    "expected_answer": "-3",
+    "solve_rate": 0.421875
+  },
+  {
+    "problem_id": "fresh_482",
+    "problem": "Given the quadratic function $y=-2(x+1)^2+5$, what are the coordinates of its vertex? Express your answer as an ordered pair $(h,k)$.",
+    "expected_answer": "(-1,5)",
+    "solve_rate": 0.671875
+  },
+  {
+    "problem_id": "fresh_483",
+    "problem": "Simplify the expression 2log<sub>5</sub>10+log<sub>5</sub>0.25. Express your answer as a single number.",
+    "expected_answer": "2",
+    "solve_rate": 0.5625
+  },
+  {
+    "problem_id": "fresh_484",
+    "problem": "Evaluate the expression: $\\frac{1998- 998}{1000}$. Express your answer as a single number.",
+    "expected_answer": "1",
+    "solve_rate": 0.265625
+  },
+  {
+    "problem_id": "fresh_485",
+    "problem": "A school has set up four clubs: drama, calligraphy, photography, and street dance. Each club can accept one more student. Four students, including A and B, are applying to join these clubs, with each student able to join only one club. Calculate the probability that A will join the street dance club and B will join either the calligraphy club or the photography club. Express your answer as a fraction in simplest form.",
+    "expected_answer": "\\frac{1}{6}",
+    "solve_rate": 0.359375
+  },
+  {
+    "problem_id": "fresh_486",
+    "problem": "Calculate the result of $(\\sqrt{2}-\\sqrt{3})^{2020} \\cdot (\\sqrt{2}+\\sqrt{3})^{2021}$. Express your answer as a simplified algebraic expression.",
+    "expected_answer": "\\sqrt{2}+\\sqrt{3}",
+    "solve_rate": 0.4375
+  },
+  {
+    "problem_id": "fresh_487",
+    "problem": "As shown in the figure, $A B \\parallel E F \\parallel C D$. Given that $A B = 20$, $C D = 80$, and $B C = 100$, find the value of $E F$. Express your answer as a whole number.",
+    "expected_answer": "16",
+    "solve_rate": 0.296875
+  },
+  {
+    "problem_id": "fresh_488",
+    "problem": "Simplify the following expression:\n$$(2 \\frac {3}{5})^{0} + 2^{-2} \\times (2 \\frac {1}{4})^{- \\frac {1}{2}} - (0.01)^{ \\frac {1}{2}}$$\nExpress your answer as a simplified fraction.",
+    "expected_answer": "\\frac {16}{15}",
+    "solve_rate": 0.65625
+  },
+  {
+    "problem_id": "fresh_489",
+    "problem": "Given that $\\tan\\left(\\alpha + \\frac{\\pi}{4}\\right) = \\frac{3}{4}$, find the value of $\\cos^2\\left(\\frac{\\pi}{4} - \\alpha\\right)$. Express your answer as a fraction.",
+    "expected_answer": "\\frac{9}{25}",
+    "solve_rate": 0.375
+  },
+  {
+    "problem_id": "fresh_490",
+    "problem": "A right circular cone has a base radius of $\\sqrt{3}$ and a slant height of $2$. Calculate the surface area of the circumscribed sphere $(O)$ around the cone. Express your answer in terms of $\\pi$.",
+    "expected_answer": "16\\pi",
+    "solve_rate": 0.34375
+  },
+  {
+    "problem_id": "fresh_491",
+    "problem": "Given the function $f(2x) = \\\\frac{2}{2+x}$ for all $x > 0$, find the expression for $2f(x)$. Express your answer as a simplified expression.",
+    "expected_answer": "\\\\frac{8}{4+x}",
+    "solve_rate": 0.640625
+  },
+  {
+    "problem_id": "fresh_492",
+    "problem": "Within a cube of edge length $3$, find the probability that the distance from a randomly selected point to each face is greater than $1$. Express your answer as a simplified fraction.",
+    "expected_answer": "\\dfrac{1}{27}",
+    "solve_rate": 0.3125
+  },
+  {
+    "problem_id": "fresh_493",
+    "problem": "Find the sum of the binomial coefficients in the expansion of $(1+2x)^5$. Express your answer as a single integer.",
+    "expected_answer": "32",
+    "solve_rate": 0.453125
+  },
+  {
+    "problem_id": "fresh_494",
+    "problem": "Determine the condition on $f$ for the equation $x^2+y^2-4x+6y+f=0$ to represent a circle. Express your answer as an inequality involving $f$.",
+    "expected_answer": "f < 13",
+    "solve_rate": 0.40625
+  },
+  {
+    "problem_id": "fresh_495",
+    "problem": "Given that P(A|C) = 0.9, P(\\\\overline{A}|\\\\overline{C}) = 0.9, and P(C) = 0.005, use Bayes' theorem to calculate P(C|A). Express your answer as a fraction.",
+    "expected_answer": "\\\\frac{9}{208}",
+    "solve_rate": 0.53125
+  },
+  {
+    "problem_id": "fresh_496",
+    "problem": "Given that the domain of the function f(x) is (-1,0), find the domain of the function f(2x+1). Express your answer as an interval in interval notation.",
+    "expected_answer": "\\left(-1,-\\frac{1}{2}\\right)",
+    "solve_rate": 0.375
+  },
+  {
+    "problem_id": "fresh_497",
+    "problem": "Given the operation $\\left|\\begin{array}{l}a&b\\\\ c&d\\end{array}\\right|=ad-bc$, calculate the complex number $z$ that satisfies $\\left|\\begin{array}{l}{z}&{1-i}\\\\{1+i}&{1}\\end{array}\\right|=i$. Express your answer as a complex number in the form $a+bi$.",
+    "expected_answer": "2+i",
+    "solve_rate": 0.640625
+  },
+  {
+    "problem_id": "fresh_498",
+    "problem": "Given an arithmetic sequence {a_n}, the sum of the first n terms is denoted as S_n. If a_2 + a_8 + a_11 = 30, find the value of S_13. Express your answer as a single numerical value.",
+    "expected_answer": "130",
+    "solve_rate": 0.6875
+  },
+  {
+    "problem_id": "fresh_499",
+    "problem": "The sequence $(1)$, $(2)$, $(2)$, $(3)$, $(3)$, $(3)$, $(4)$, $(4)$, $(4)$, $(4)$, $(...)$ consists of one $1$, two $2$s, three $3$s, and so on. Find the 100th term of this sequence. Express your answer as a single integer.",
+    "expected_answer": "14",
+    "solve_rate": 0.21875
+  },
+  {
+    "problem_id": "fresh_500",
+    "problem": "Given the parametric equations of a line, \\( \\begin{cases} x=2-3t \\\\ y=1+2t \\end{cases} \\), where \\(t\\) is a parameter, derive the general form of the line's equation. Express your answer in the form \\(Ax + By + C = 0\\), where \\(A\\), \\(B\\), and \\(C\\) are integers.",
+    "expected_answer": "2x + 3y - 7 = 0",
+    "solve_rate": 0.640625
+  }
+]
